@@ -13,6 +13,12 @@ app.use(bodyParser.json());
 app.use(express.urlencoded({ extended: true }))
 // get all persons
 
+app.get('/api/v1.0/mytest', (req, res) => {
+  res.status(400).send({
+    success: 'false',
+    message: 'wrong request !',
+  })
+});
 
 app.get('/api/v1.0/test1', (req, res) => {
   res.status(201).send({
