@@ -13,6 +13,13 @@ app.use(bodyParser.json());
 app.use(express.urlencoded({ extended: true }))
 // get all persons
 
+app.get('/api/v1.0/test', (req, res) => {
+  res.status(200).send({
+    success: 'true',
+    message: 'configuration retrieved successfully',
+  })
+});
+
 app.get('/api/v1.0/configuration', (req, res) => {
   res.status(200).send({
     success: 'true',
