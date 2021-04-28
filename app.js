@@ -13,12 +13,14 @@ app.use(bodyParser.json());
 app.use(express.urlencoded({ extended: true }))
 // get all persons
 
+
 app.get('/api/v1.0/merge example', (req, res) => {
   res.status(300).send({
     success: 'true',
     message: 'tested merge returns success',
   })
 });
+
 
 
 app.get('/api/v1.0/tested example', (req, res) => {
