@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: true }))
 app.get('/api/v1.0/merge example', (req, res) => {
   res.status(500).send({
     success: 'true',
-    message: 'tested merge returns success but fails again',
+    message: 'tested merge returns success but fails again with code 500',
   })
 });
 
