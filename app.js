@@ -17,8 +17,7 @@ app.use(express.urlencoded({ extended: true }))
 app.get('/api/v1.0/merge/ronwellTraining1', (req, res) => {
   res.status(200).send({
     success: 'true',
-    message: 'I am waiting for success status code 200',
-
+    message: 'waiting for status code 500',
   })
 });
 
