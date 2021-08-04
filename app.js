@@ -14,10 +14,10 @@ app.use(express.urlencoded({ extended: true }))
 // get all persons
 
 
-app.get('/api/v1.0/merge/ronwellTraining', (req, res) => {
-  res.status(400).send({
+app.get('/api/v1.0/merge/ronwellTraining1', (req, res) => {
+  res.status(200).send({
     success: 'true',
-    message: 'I am waiting for status code 400',
+    message: 'I am waiting for success status code 200',
 
   })
 });
