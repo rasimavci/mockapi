@@ -1,7 +1,7 @@
 import bodyParser from 'body-parser';
 import express from 'express';
-import persons  from './db.js';
-import profiles  from './db2.js';
+import data  from './db.js';
+// import profiles  from './db2.js';
 
 // import bodyParser from body-bodyParser;
 
@@ -13,6 +13,45 @@ app.use(bodyParser.json());
 app.use(express.urlencoded({ extended: true }))
 // get all persons
 
+app.get('/user', (req, res) => {
+  res.status(200).send({
+    data: data.user,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/examsInfo', (req, res) => {
+  res.status(200).send({
+    data: data.examsInfo,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/exams', (req, res) => {
+  res.status(200).send({
+    data: data.exams,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/testInfo', (req, res) => {
+  res.status(200).send({
+    data: data.examsInfo,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/test', (req, res) => {
+  res.status(200).send({
+    data: data.exams,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
 
 app.get('/api/v1.0/merge/ronwellTraining1', (req, res) => {
   res.status(200).send({
