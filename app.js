@@ -13,6 +13,26 @@ app.use(bodyParser.json());
 app.use(express.urlencoded({ extended: true }))
 // get all persons
 
+// Add headers before the routes are defined
+app.use(function (req, res, next) {
+
+  // Website you wish to allow to connect
+  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8081');
+
+  // Request methods you wish to allow
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+  // Request headers you wish to allow
+  res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+  // Set to true if you need the website to include cookies in the requests sent
+  // to the API (e.g. in case you use sessions)
+  res.setHeader('Access-Control-Allow-Credentials', true);
+
+  // Pass to next layer of middleware
+  next();
+});
+
 app.get('/user', (req, res) => {
   res.status(200).send({
     data: data.user,
@@ -30,6 +50,7 @@ app.get('/examsInfo', (req, res) => {
 });
 
 app.get('/exams', (req, res) => {
+
   res.status(200).send({
     data: data.exams,
     success: 'true',
@@ -48,6 +69,22 @@ app.get('/testInfo', (req, res) => {
 app.get('/test', (req, res) => {
   res.status(200).send({
     data: data.exams,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/readingInfo', (req, res) => {
+  res.status(200).send({
+    data: data.readingInfo,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/reading', (req, res) => {
+  res.status(200).send({
+    data: data.reading,
     success: 'true',
     message: 'waiting for status code 200',
   })
