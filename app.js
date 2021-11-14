@@ -89,6 +89,22 @@ app.get('/reading', (req, res) => {
   })
 });
 
+app.get('/documentsInfo', (req, res) => {
+  res.status(200).send({
+    data: data.documentsInfo,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/documents', (req, res) => {
+  res.status(200).send({
+    data: data.documents,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
 app.get('/api/v1.0/merge/ronwellTraining1', (req, res) => {
   res.status(200).send({
     success: 'true',

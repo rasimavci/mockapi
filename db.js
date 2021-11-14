@@ -70,7 +70,7 @@ const data = {
       "read": false,
       "app": "wordy",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Ek Ders - 2 için yeni ödevlerin var!",
+      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/dersler/11"
     },
@@ -79,7 +79,7 @@ const data = {
       "read": false,
       "app": "resource",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Ek Ders - 2 için yeni ödevlerin var!",
+      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/dokuman/1"
     },
@@ -88,7 +88,7 @@ const data = {
       "read": true,
       "app": "lesson",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Ek Ders - 2 için yeni ödevlerin var!",
+      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/dersler/23"
     },
@@ -97,7 +97,7 @@ const data = {
       "read": true,
       "app": "test",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Ek Ders - 2 için yeni ödevlerin var!",
+      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/test/12"
     },
@@ -106,7 +106,7 @@ const data = {
       "read": true,
       "app": "resource",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Ek Ders - 2 için yeni ödevlerin var!",
+      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/kaynak/55"
     }
@@ -324,7 +324,7 @@ const data = {
   ],
   "lessonsInfo": {
     "what": {
-      "title": "RH+ Ders Nedir",
+      "title": "RH+ Course Nedir",
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
@@ -344,9 +344,9 @@ const data = {
       },
       {
         "id": 1,
-        "group": "on-hazirlik",
+        "group": "Certification Preparation",
         "progress": 55,
-        "title": "Ön Hazırlık Grubu"
+        "title": "Preliminary Grubu"
       },
       {
         "id": 2,
@@ -389,11 +389,11 @@ const data = {
   "lessons": [
     {
       "id": 0,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "groupName": "Çeviri Grubu",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "progress": 85,
       "visited": true,
@@ -401,9 +401,9 @@ const data = {
     },
     {
       "id": 1,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 43,
@@ -412,10 +412,10 @@ const data = {
     },
     {
       "id": 2,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
-      "group": "on-hazirlik",
-      "date": "2019-02-12",
+      "group": "Certification Preparation",
+      "date": "2022-02-12",
       "hour": "22:00",
       "progress": 55,
       "visited": false,
@@ -423,9 +423,9 @@ const data = {
     },
     {
       "id": 3,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-11-25",
       "hour": "22:00",
       "progress": 24,
@@ -434,10 +434,10 @@ const data = {
     },
     {
       "id": 4,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
-      "date": "2019-10-24",
+      "date": "2022-10-24",
       "hour": "22:00",
       "progress": 100,
       "visited": true,
@@ -445,7 +445,7 @@ const data = {
     },
     {
       "id": 5,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -456,7 +456,7 @@ const data = {
     },
     {
       "id": 6,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -467,7 +467,7 @@ const data = {
     },
     {
       "id": 7,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -478,9 +478,9 @@ const data = {
     },
     {
       "id": 8,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -489,9 +489,9 @@ const data = {
     },
     {
       "id": 9,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -500,7 +500,7 @@ const data = {
     },
     {
       "id": 10,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -511,7 +511,7 @@ const data = {
     },
     {
       "id": 11,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -522,7 +522,7 @@ const data = {
     },
     {
       "id": 12,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -533,7 +533,7 @@ const data = {
     },
     {
       "id": 13,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -544,9 +544,9 @@ const data = {
     },
     {
       "id": 14,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -555,7 +555,7 @@ const data = {
     },
     {
       "id": 15,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -566,7 +566,7 @@ const data = {
     },
     {
       "id": 16,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -577,7 +577,7 @@ const data = {
     },
     {
       "id": 17,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -588,7 +588,7 @@ const data = {
     },
     {
       "id": 18,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -599,7 +599,7 @@ const data = {
     },
     {
       "id": 19,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -610,9 +610,9 @@ const data = {
     },
     {
       "id": 20,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -621,9 +621,9 @@ const data = {
     },
     {
       "id": 21,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -632,7 +632,7 @@ const data = {
     },
     {
       "id": 22,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -643,7 +643,7 @@ const data = {
     },
     {
       "id": 23,
-      "title": "Ders - 34",
+      "title": "Course - 34",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -656,10 +656,10 @@ const data = {
   "lesson": [
     {
       "id": 0,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -753,10 +753,10 @@ const data = {
     },
     {
       "id": 1,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -850,10 +850,10 @@ const data = {
     },
     {
       "id": 2,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -947,10 +947,10 @@ const data = {
     },
     {
       "id": 3,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -1044,10 +1044,10 @@ const data = {
     },
     {
       "id": 4,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -1141,10 +1141,10 @@ const data = {
     },
     {
       "id": 5,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -1238,10 +1238,10 @@ const data = {
     },
     {
       "id": 6,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -1335,10 +1335,10 @@ const data = {
     },
     {
       "id": 7,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -1432,10 +1432,10 @@ const data = {
     },
     {
       "id": 8,
-      "name": "Ders - 34",
+      "name": "Course - 34",
       "tags": ["etiket", "etiket2"],
       "group": "ceviri",
-      "date": "2019-05-11",
+      "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
       "teacher": "REMZİ HOCA",
@@ -3010,9 +3010,9 @@ const data = {
       },
       {
         "id": 1,
-        "group": "on-hazirlik",
+        "group": "Certification Preparation",
         "progress": 55,
-        "title": "Ön Hazırlık Grubu"
+        "title": "Preliminary Grubu"
       },
       {
         "id": 2,
@@ -3053,11 +3053,11 @@ const data = {
     ],
     "types": [
       {
-        "label": "Geniş Zaman Soru Tipi",
+        "label": "Geniş Zaman Question Type",
         "value": 1
       },
       {
-        "label": "Preposition Soru Tipi",
+        "label": "Preposition Question Type",
         "value": 2
       }
     ]
@@ -3068,9 +3068,9 @@ const data = {
       "date": "2018-12-12",
       "group": "deneme",
       "groupName": "Deneme Grubu",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
-      "title": "Translation Testi",
+      "title": "Translation Exam",
       "solved": false,
       "progress": 45,
       "wrongCount": 5,
@@ -3082,12 +3082,12 @@ const data = {
     },
     {
       "id": 2,
-      "date": "2019-02-15",
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "type": "Preposition Soru Tipi",
+      "date": "2022-02-15",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "type": "Preposition Question Type",
       "typeId" : 2,
-      "title": "Translation Testi 3",
+      "title": "Translation Exam 3",
       "solved": true,
       "progress": null,
       "wrongCount": 5,
@@ -3100,11 +3100,11 @@ const data = {
     {
       "id": 3,
       "date": "2018-11-08",
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "type": "Preposition Question Type",
       "typeId" : 2,
-      "title": "Translation Testi 6",
+      "title": "Translation Exam 6",
       "solved": false,
       "progress": null,
       "wrongCount": null,
@@ -3116,12 +3116,12 @@ const data = {
     },
     {
       "id": 4,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "group": "ceviri",
       "groupName": "Çeviri Grubu",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
-      "title": "Translation Testi 5",
+      "title": "Translation Exam 5",
       "solved": false,
       "progress": null,
       "wrongCount": null,
@@ -3133,12 +3133,12 @@ const data = {
     },
     {
       "id": 5,
-      "date": "2019-01-02",
+      "date": "2022-01-02",
       "group": "deneme",
       "groupName": "Deneme Grubu",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
-      "title": "Translation Testi",
+      "title": "Translation Exam",
       "solved": false,
       "progress": 75,
       "wrongCount": 25,
@@ -3150,12 +3150,12 @@ const data = {
     },
     {
       "id": 6,
-      "date": "2019-12-03",
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "type": "Geniş Zaman Soru Tipi",
+      "date": "2022-12-03",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
-      "title": "Translation Testi 3",
+      "title": "Translation Exam 3",
       "solved": true,
       "progress": null,
       "wrongCount": 5,
@@ -3167,12 +3167,12 @@ const data = {
     },
     {
       "id": 7,
-      "date": "2019-05-25",
+      "date": "2022-05-25",
       "group": "ceviri",
       "groupName": "Çeviri Grubu",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
-      "title": "Translation Testi 6",
+      "title": "Translation Exam 6",
       "solved": false,
       "progress": null,
       "wrongCount": null,
@@ -3184,12 +3184,12 @@ const data = {
     },
     {
       "id": 8,
-      "date": "2019-12-27",
+      "date": "2022-12-27",
       "group": "deneme",
       "groupName": "Deneme Grubu",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
-      "title": "Translation Testi 5",
+      "title": "Translation Exam 5",
       "solved": false,
       "progress": null,
       "wrongCount": null,
@@ -3201,12 +3201,12 @@ const data = {
     },
     {
       "id": 9,
-      "date": "2019-02-15",
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "type": "Preposition Soru Tipi",
+      "date": "2022-02-15",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "type": "Preposition Question Type",
       "typeId" : 2,
-      "title": "Translation Testi 3",
+      "title": "Translation Exam 3",
       "solved": true,
       "progress": null,
       "wrongCount": 5,
@@ -3219,11 +3219,11 @@ const data = {
     {
       "id": 10,
       "date": "2018-11-08",
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "type": "Preposition Question Type",
       "typeId" : 2,
-      "title": "Translation Testi 6",
+      "title": "Translation Exam 6",
       "solved": false,
       "progress": null,
       "wrongCount": null,
@@ -3235,12 +3235,12 @@ const data = {
     },
     {
       "id": 11,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "group": "ceviri",
       "groupName": "Çeviri Grubu",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
-      "title": "Translation Testi 5",
+      "title": "Translation Exam 5",
       "solved": false,
       "progress": null,
       "wrongCount": null,
@@ -3252,12 +3252,12 @@ const data = {
     },
     {
       "id": 12,
-      "date": "2019-01-02",
+      "date": "2022-01-02",
       "group": "deneme",
       "groupName": "Deneme Grubu",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
-      "title": "Translation Testi",
+      "title": "Translation Exam",
       "solved": false,
       "progress": 75,
       "wrongCount": 25,
@@ -3269,12 +3269,12 @@ const data = {
     },
     {
       "id": 13,
-      "date": "2019-12-03",
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "type": "Geniş Zaman Soru Tipi",
+      "date": "2022-12-03",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
-      "title": "Translation Testi 3",
+      "title": "Translation Exam 3",
       "solved": true,
       "progress": null,
       "wrongCount": 5,
@@ -3286,12 +3286,12 @@ const data = {
     },
     {
       "id": 14,
-      "date": "2019-05-25",
+      "date": "2022-05-25",
       "group": "ceviri",
       "groupName": "Çeviri Grubu",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
-      "title": "Translation Testi 6",
+      "title": "Translation Exam 6",
       "solved": false,
       "progress": null,
       "wrongCount": null,
@@ -3303,12 +3303,12 @@ const data = {
     },
     {
       "id": 15,
-      "date": "2019-12-27",
+      "date": "2022-12-27",
       "group": "deneme",
       "groupName": "Deneme Grubu",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
-      "title": "Translation Testi 5",
+      "title": "Translation Exam 5",
       "solved": false,
       "progress": null,
       "wrongCount": null,
@@ -3322,11 +3322,11 @@ const data = {
   "test": [
     {
       "id": 2,
-      "name": "Translation Testi",
+      "name": "Translation Exam",
       "createdAt": "2018.11.11",
       "updatedAt": "2018.11.11",
-      "title": "Translation Testi",
-      "testId": 2,
+      "title": "Translation Exam",
+      "Examd": 2,
       "correctCount": 0,
       "wrongCount": 0,
       "emptyCount": 0,
@@ -3861,11 +3861,11 @@ const data = {
   ],
   "examsInfo": {
     "what": {
-      "title": "RH+ Test Nedir",
+      "title": "Whats is Ranorex Certification",
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "Nasıl Çalışır?",
+      "title": "How does it work?",
       "text": "Help people get answers to their questions and get started with your app."
     },
     "video": {
@@ -3881,9 +3881,9 @@ const data = {
       },
       {
         "id": 1,
-        "group": "on-hazirlik",
+        "group": "Certification Preparation",
         "progress": 55,
-        "title": "Ön Hazırlık Grubu"
+        "title": "Preliminary Grubu"
       },
       {
         "id": 2,
@@ -3924,11 +3924,11 @@ const data = {
     ],
     "types": [
       {
-        "label": "Geniş Zaman Soru Tipi",
+        "label": "Geniş Zaman Question Type",
         "value": 1
       },
       {
-        "label": "Preposition Soru Tipi",
+        "label": "Preposition Question Type",
         "value": 2
       }
     ],
@@ -3952,11 +3952,11 @@ const data = {
   "exams": [
     {
       "id": 0,
-      "title": "Ranorex Exam",
+      "title": "Ranorex Certification Exam 1",
       "groupName": "Practice Grubu",
       "group": "deneme",
-      "date": "2019-11-29",
-      "type": "Geniş Zaman Soru Tipi",
+      "date": "2022-11-29",
+      "type": "Multi Selection Question Type",
       "typeId" : 1,
       "count": null,
       "score": 220,
@@ -3965,41 +3965,41 @@ const data = {
       "results": [
         {
           "current": 18,
-          "full": 30
+          "full": 55
         },
         {
           "current": 5,
-          "full": 30
+          "full": 55
         },
         {
           "current": 7,
-          "full": 30
+          "full": 55
         }
       ],
       "time": "42dk"
     },
     {
       "id": 1,
-      "title": "Advanced Ranorex Exam",
-      "groupName": "Ön Hazırlık Grubu",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "title": "Ranorex Certification Exam 2",
+      "groupName": "Automation Group",
+      "group": "ceviri",
+      "date": "2022-11-26",
+      "type": "Preposition Question Type",
       "typeId" : 2,
-      "count": 180,
+      "count": 300,
       "score": null,
       "status": "none",
-      "progress": null,
+      "progress": 68,
       "results": null,
       "time": null
     },
     {
       "id": 2,
-      "title": "Selenium Test",
+      "title": "Selenium Exam",
       "groupName": "Automation Group",
       "group": "ceviri",
-      "date": "2017-11-26",
-      "type": "Preposition Soru Tipi",
+      "date": "2022-11-26",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 300,
       "score": null,
@@ -4014,7 +4014,7 @@ const data = {
       "groupName": "Automation Group",
       "group": "deneme",
       "date": "2016-09-12",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 290,
       "score": null,
@@ -4025,11 +4025,11 @@ const data = {
     },
     {
       "id": 4,
-      "title": "JMeter Testi",
+      "title": "JMeter Exam",
       "groupName": "Automation Group",
-      "group": "on-hazirlik",
-      "date": "2019-05-23",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-05-23",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": null,
       "score": 125,
@@ -4056,8 +4056,8 @@ const data = {
       "title": "SOAP UI Test",
       "groupName": "Automation Group",
       "group": "ceviri",
-      "date": "2019-11-04",
-      "type": "Preposition Soru Tipi",
+      "date": "2022-11-04",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 300,
       "score": null,
@@ -4072,7 +4072,7 @@ const data = {
       "groupName": "Automation Group",
       "group": "deneme",
       "date": "2018-05-21",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4085,9 +4085,9 @@ const data = {
       "id": 7,
       "title": "SOAP with Ranorex",
       "groupName": "Automation Group",
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2016-03-22",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 300,
       "score": null,
@@ -4100,9 +4100,9 @@ const data = {
       "id": 8,
       "title": "Python Test",
       "groupName": "Development Group",
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2017-04-21",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": 290,
       "score": null,
@@ -4117,7 +4117,7 @@ const data = {
       "groupName": "Development Group",
       "group": "deneme",
       "date": "2018-11-27",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": null,
       "score": 185,
@@ -4141,11 +4141,11 @@ const data = {
     },
     {
       "id": 10,
-      "title": "Javascript Testi",
+      "title": "Javascript Exam",
       "groupName": "Development Group",
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-08-23",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": 255,
       "score": null,
@@ -4156,11 +4156,11 @@ const data = {
     },
     {
       "id": 11,
-      "title": "Translation Testi",
+      "title": "Translation Exam",
       "groupName": "Development Group",
       "group": "ceviri",
       "date": "2018-09-05",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": null,
       "score": 125,
@@ -4188,7 +4188,7 @@ const data = {
       "groupName": "Cloud Group",
       "group": "deneme",
       "date": "2018-11-03",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": 300,
       "score": null,
@@ -4203,7 +4203,7 @@ const data = {
       "groupName": "Cloud Group",
       "group": "deneme",
       "date": "2015-04-12",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4214,11 +4214,11 @@ const data = {
     },
     {
       "id": 14,
-      "title": "Lambda Testi",
+      "title": "Lambda Exam",
       "groupName": "Cloud Group",
       "group": "ceviri",
       "date": "2018-11-30",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 300,
       "score": null,
@@ -4232,8 +4232,8 @@ const data = {
       "title": "Cognito Test",
       "groupName": "Cloud Group",
       "group": "deneme",
-      "date": "2019-05-21",
-      "type": "Geniş Zaman Soru Tipi",
+      "date": "2022-05-21",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": 290,
       "score": null,
@@ -4246,9 +4246,9 @@ const data = {
       "id": 16,
       "title": "Elastic Search Test",
       "groupName": "Cloud Group",
-      "group": "on-hazirlik",
-      "date": "2019-03-22",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-03-22",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": null,
       "score": 185,
@@ -4275,8 +4275,8 @@ const data = {
       "title": "Dynamo DB Test",
       "groupName": "Cloud Group",
       "group": "deneme",
-      "date": "2019-06-14",
-      "type": "Geniş Zaman Soru Tipi",
+      "date": "2022-06-14",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": 255,
       "score": null,
@@ -4290,8 +4290,8 @@ const data = {
       "title": "REST API with Ranorex",
       "groupName": "REST API Group",
       "group": "deneme",
-      "date": "2019-08-01",
-      "type": "Preposition Soru Tipi",
+      "date": "2022-08-01",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": null,
       "score": 125,
@@ -4319,7 +4319,7 @@ const data = {
       "groupName": "REST API Group",
       "group": "ceviri",
       "date": "2018-08-03",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": 300,
       "score": null,
@@ -4332,9 +4332,9 @@ const data = {
       "id": 20,
       "title": "REST API with SOAP UI",
       "groupName": "REST API Group",
-      "group": "on-hazirlik",
+      "group": "Certification Preparation",
       "date": "2018-03-22",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4349,7 +4349,7 @@ const data = {
       "groupName": "Devops Group",
       "group": "ceviri",
       "date": "2018-11-29",
-      "type": "Preposition Soru Tipi",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 300,
       "score": null,
@@ -4364,7 +4364,7 @@ const data = {
       "groupName": "Devops Group",
       "group": "deneme",
       "date": "2017-07-24",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": 290,
       "score": null,
@@ -4377,9 +4377,9 @@ const data = {
       "id": 23,
       "title": "Advanced Jenkins",
       "groupName": "Devops Group",
-      "group": "on-hazirlik",
-      "date": "2019-11-12",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-11-12",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": null,
       "score": 185,
@@ -4407,7 +4407,7 @@ const data = {
       "groupName": "Devops Group",
       "group": "ceviri",
       "date": "2018-05-25",
-      "type": "Geniş Zaman Soru Tipi",
+      "type": "Geniş Zaman Question Type",
       "typeId" : 1,
       "count": 255,
       "score": null,
@@ -4418,11 +4418,11 @@ const data = {
     },
     {
       "id": 25,
-      "title": "Advanced Azure Devops",
+      "title": "Azure Solution Certification Exam",
       "groupName": "Devops Group",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-04-24",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4433,11 +4433,11 @@ const data = {
     },
     {
       "id": 26,
-      "title": "Introduction to Cypress",
-      "groupName": "Test Automation Group",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "title": "Azure Developer Exam",
+      "groupName": "Cloud Group",
+      "group": "Certification Preparation",
+      "date": "2022-04-24",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4448,11 +4448,11 @@ const data = {
     },
     {
       "id": 27,
-      "title": "Introduction to Web Testing",
+      "title": "Introduction to Web Examng",
       "groupName": "Test Automation Group",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-04-24",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4463,11 +4463,11 @@ const data = {
     },
     {
       "id": 28,
-      "title": "Introduction to Mobile Testing",
+      "title": "Introduction to Mobile Examng",
       "groupName": "Test Automation Group",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-04-24",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4480,9 +4480,9 @@ const data = {
       "id": 29,
       "title": "Test Case Writing with Zephry",
       "groupName": "Test Management",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-04-24",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4495,9 +4495,9 @@ const data = {
       "id": 30,
       "title": "Test Management with Zephry",
       "groupName": "Test Management",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-04-24",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4510,9 +4510,9 @@ const data = {
       "id": 31,
       "title": "Introduction to SAP",
       "groupName": "SAP Group",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-04-24",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4525,9 +4525,9 @@ const data = {
       "id": 32,
       "title": "Advanced SAP",
       "groupName": "Preparation Group",
-      "group": "on-hazirlik",
-      "date": "2019-04-24",
-      "type": "Preposition Soru Tipi",
+      "group": "Certification Preparation",
+      "date": "2022-04-24",
+      "type": "Preposition Question Type",
       "typeId" : 2,
       "count": 180,
       "score": null,
@@ -4559,9 +4559,9 @@ const data = {
       },
       {
         "id": 1,
-        "group": "on-hazirlik",
+        "group": "Certification Preparation",
         "progress": 55,
-        "title": "Ön Hazırlık Grubu"
+        "title": "Preliminary Grubu"
       },
       {
         "id": 2,
@@ -4577,9 +4577,9 @@ const data = {
       },
       {
         "id": 4,
-        "group": "on-hazirlik",
+        "group": "Certification Preparation",
         "progress": 55,
-        "title": "Ön Hazırlık Grubu"
+        "title": "Preliminary Grubu"
       },
       {
         "id": 5,
@@ -4606,8 +4606,8 @@ const data = {
       "id": 1,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
       "date": "2018-12-12",
       "tags": [
         "galaxy",
@@ -4669,9 +4669,9 @@ const data = {
       "id": 4,
       "img": "reading-2",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-02-18",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-02-18",
       "tags": [
         "galaxy",
         "universe",
@@ -4711,9 +4711,9 @@ const data = {
       "id": 6,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-12-11",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-12-11",
       "tags": [
         "galaxy",
         "universe",
@@ -4732,9 +4732,9 @@ const data = {
       "id": 7,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-07-07",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-07-07",
       "tags": [
         "galaxy",
         "universe",
@@ -4795,9 +4795,9 @@ const data = {
       "id": 10,
       "img": "reading-2",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-09-24",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-09-24",
       "tags": [
         "galaxy",
         "universe",
@@ -4837,8 +4837,8 @@ const data = {
       "id": 12,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
       "date": "2018-09-09",
       "tags": [
         "galaxy",
@@ -4860,7 +4860,7 @@ const data = {
       "groupId": 12,
       "group": "deneme",
       "groupName": "Deneme Grubu",
-      "date": "2019-08-30",
+      "date": "2022-08-30",
       "tags": [
         "galaxy",
         "universe",
@@ -4879,8 +4879,8 @@ const data = {
       "id": 14,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
       "date": "2018-01-18",
       "tags": [
         "galaxy",
@@ -4900,9 +4900,9 @@ const data = {
       "id": 15,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-07-13",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-07-13",
       "tags": [
         "galaxy",
         "universe",
@@ -4963,8 +4963,8 @@ const data = {
       "id": 18,
       "img": "reading-2",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
       "date": "2014-12-15",
       "tags": [
         "galaxy",
@@ -8055,9 +8055,9 @@ const data = {
       "id": 4,
       "img": "reading-2",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-02-18",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-02-18",
       "tags": [
         "galaxy",
         "universe",
@@ -10103,9 +10103,9 @@ const data = {
       "id": 6,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-12-11",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-12-11",
       "tags": [
         "galaxy",
         "universe",
@@ -11127,9 +11127,9 @@ const data = {
       "id": 7,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-07-07",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-07-07",
       "tags": [
         "galaxy",
         "universe",
@@ -14199,9 +14199,9 @@ const data = {
       "id": 10,
       "img": "reading-2",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-09-24",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-09-24",
       "tags": [
         "galaxy",
         "universe",
@@ -16247,8 +16247,8 @@ const data = {
       "id": 12,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
       "date": "2018-09-09",
       "tags": [
         "galaxy",
@@ -17273,7 +17273,7 @@ const data = {
       "groupId": 12,
       "group": "deneme",
       "groupName": "Deneme Grubu",
-      "date": "2019-08-30",
+      "date": "2022-08-30",
       "tags": [
         "galaxy",
         "universe",
@@ -18295,8 +18295,8 @@ const data = {
       "id": 14,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
       "date": "2018-01-18",
       "tags": [
         "galaxy",
@@ -19319,9 +19319,9 @@ const data = {
       "id": 15,
       "img": "reading-1",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
-      "date": "2019-07-13",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
+      "date": "2022-07-13",
       "tags": [
         "galaxy",
         "universe",
@@ -22391,8 +22391,8 @@ const data = {
       "id": 18,
       "img": "reading-2",
       "groupId": 12,
-      "group": "on-hazirlik",
-      "groupName": "Ön Hazırlık Grubu",
+      "group": "Certification Preparation",
+      "groupName": "Preliminary Grubu",
       "date": "2014-12-15",
       "tags": [
         "galaxy",
@@ -23434,9 +23434,9 @@ const data = {
       },
       {
         "id": 1,
-        "group": "on-hazirlik",
+        "group": "Certification Preparation",
         "progress": 55,
-        "title": "Ön Hazırlık Grubu"
+        "title": "Preliminary Grubu"
       },
       {
         "id": 2,
@@ -23479,14 +23479,14 @@ const data = {
   "documents": [
     {
       "id": 0,
-      "title": "Yökdil Ortak Deneme Kaynağı",
-      "text": "Lorem ipsum dolar sit amet",
+      "title": "Ranorex Certification Training0",
+      "text": "Ranorex Certification Training",
       "visited": true,
       "groups": [
         {
           "id": 1,
-          "title": "Ön Hazırlık Grubu",
-          "name": "on-hazirlik"
+          "title": "Automation Group",
+          "name": "Certification Preparation"
         },
         {
           "id": 2,
@@ -23497,14 +23497,14 @@ const data = {
     },
     {
       "id": 1,
-      "title": "Yökdil Ortak Deneme Kaynağı",
-      "text": "Lorem ipsum dolar sit amet",
+      "title": "Ranorex Certification Training1",
+      "text": "Ranorex Certification Syllabus",
       "visited": true,
       "groups": [
         {
           "id": 0,
-          "title": "Ön Hazırlık Grubu",
-          "name": "on-hazirlik"
+          "title": "Automation Group",
+          "name": "Certification Preparation"
         },
         {
           "id": 1,
@@ -23515,14 +23515,14 @@ const data = {
     },
     {
       "id": 2,
-      "title": "Yökdil Ortak Deneme Kaynağı",
+      "title": "Ranorex Certification Training2",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
       "groups": [
         {
           "id": 0,
-          "title": "Ön Hazırlık Grubu",
-          "name": "on-hazirlik"
+          "title": "Preliminary Grubu",
+          "name": "Certification Preparation"
         },
         {
           "id": 1,
@@ -23538,7 +23538,7 @@ const data = {
     },
     {
       "id": 3,
-      "title": "Yökdil Ortak Deneme Kaynağı",
+      "title": "Ranorex Certification Training3",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
       "groups": [
@@ -23551,14 +23551,14 @@ const data = {
     },
     {
       "id": 4,
-      "title": "Yökdil Ortak Deneme Kaynağı",
+      "title": "Ranorex Certification Training4",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
       "groups": [
         {
           "id": 0,
-          "title": "Ön Hazırlık Grubu",
-          "name": "on-hazirlik"
+          "title": "Preliminary Grubu",
+          "name": "Certification Preparation"
         },
         {
           "id": 1,
@@ -23569,7 +23569,7 @@ const data = {
     },
     {
       "id": 5,
-      "title": "Yökdil Ortak Deneme Kaynağı",
+      "title": "Ranorex Certification Training5",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
       "groups": [
@@ -23587,14 +23587,14 @@ const data = {
     },
     {
       "id": 6,
-      "title": "Yökdil Ortak Deneme Kaynağı",
+      "title": "Ranorex Certification Training6",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
       "groups": [
         {
           "id": 0,
-          "title": "Ön Hazırlık Grubu",
-          "name": "on-hazirlik"
+          "title": "Preliminary Grubu",
+          "name": "Certification Preparation"
         },
         {
           "id": 1,
@@ -23607,7 +23607,25 @@ const data = {
           "name": "deneme"
         }
       ]
-    }
+    },
+    {
+      "id": 7,
+      "title": "Ranorex Certification Training7",
+      "text": "Lorem ipsum dolar sit amet",
+      "visited": false,
+      "groups": [
+        {
+          "id": 1,
+          "title": "Çeviri Grubu",
+          "name": "ceviri"
+        },
+        {
+          "id": 2,
+          "title": "Deneme Grubu",
+          "name": "deneme"
+        }
+      ]
+    },    
   ],
   "document": [
     {
@@ -23673,9 +23691,9 @@ const data = {
       },
       {
         "id": 1,
-        "group": "on-hazirlik",
+        "group": "Certification Preparation",
         "progress": 55,
-        "title": "Ön Hazırlık Grubu"
+        "title": "Preliminary Grubu"
       },
       {
         "id": 2,
@@ -23722,12 +23740,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23737,12 +23755,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 45,
-      "date": "2019-03-25",
+      "date": "2022-03-25",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         },
         {
           "id": 1,
@@ -23772,12 +23790,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-11-12",
+      "date": "2022-11-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         },
         {
           "id": 1,
@@ -23797,12 +23815,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 75,
-      "date": "2019-07-05",
+      "date": "2022-07-05",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23812,12 +23830,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 11,
-      "date": "2019-09-11",
+      "date": "2022-09-11",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23827,12 +23845,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 100,
-      "date": "2019-11-27",
+      "date": "2022-11-27",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23842,12 +23860,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-08-01",
+      "date": "2022-08-01",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23857,12 +23875,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23872,12 +23890,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23887,12 +23905,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23902,12 +23920,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23917,12 +23935,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23932,12 +23950,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23947,12 +23965,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23962,12 +23980,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23977,12 +23995,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -23992,12 +24010,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -24007,12 +24025,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -24022,12 +24040,12 @@ const data = {
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     },
@@ -24037,12 +24055,12 @@ const data = {
       "title": "Soru Çözüm Digibook end",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
       "progress": 55,
-      "date": "2019-05-12",
+      "date": "2022-05-12",
       "groups": [
         {
           "id": 0,
-          "name": "on-hazirlik",
-          "title": "Ön Hazırlık"
+          "name": "Certification Preparation",
+          "title": "Preliminary"
         }
       ]
     }
@@ -24053,13 +24071,13 @@ const data = {
       "week": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "groupId": 1,
       "progress": [
         {
           "id": 1,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24085,7 +24103,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24095,12 +24113,12 @@ const data = {
       "status": "completed",
       "groupId": 1,
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24126,7 +24144,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24136,12 +24154,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24167,7 +24185,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24177,12 +24195,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24208,7 +24226,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24218,12 +24236,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24249,7 +24267,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24259,12 +24277,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24290,7 +24308,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24300,12 +24318,12 @@ const data = {
       "groupId": 1,
       "status": "continue",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "continue",
@@ -24331,7 +24349,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24341,12 +24359,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24372,7 +24390,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24382,12 +24400,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24413,7 +24431,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24423,12 +24441,12 @@ const data = {
       "groupId": 1,
       "status": "none",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "none",
@@ -24454,7 +24472,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24464,12 +24482,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24495,7 +24513,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24505,12 +24523,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24536,7 +24554,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24546,12 +24564,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24577,7 +24595,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24587,12 +24605,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24618,7 +24636,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24628,12 +24646,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24659,7 +24677,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24669,12 +24687,12 @@ const data = {
       "groupId": 1,
       "status": "completed",
       "statusPercent": "100",
-      "title": "Ders 1111",
-      "subtitle": "Ek Ders - Sıfatlar",
+      "title": "Course 1111",
+      "subtitle": "Additional Course - Sıfatlar",
       "progress": [
         {
           "id": 0,
-          "title": "Dersi Tamamla",
+          "title": "Complete Course",
           "current": "100dk",
           "full": "100dk",
           "status": "completed",
@@ -24700,7 +24718,7 @@ const data = {
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Cuma",
+      "date": "19 Aralık 2018 / Friday",
       "hour": "19:00",
       "active": false
     }
@@ -24716,11 +24734,11 @@ const data = {
       "week": 1,
       "group": {
         "id": 10,
-        "name": "Ön Hazırlık Grubu"
+        "name": "Preliminary Grubu"
       },
       "group_id": 10,
       "classroom": {
-        "name": "Ek Ders - Verbs"
+        "name": "Additional Course - Verbs"
       },
       "homeworks": [],
       "resources": [],
@@ -24742,7 +24760,7 @@ const data = {
       },
       "group": {
         "id": 1,
-        "name": "Ön Hazırlık Grubu"
+        "name": "Preliminary Grubu"
       }
     }
   ],
@@ -24752,7 +24770,7 @@ const data = {
       "groups": [
         {
           "id": 1,
-          "name": "Ön Hazırlık Grubu",
+          "name": "Preliminary Grubu",
           "active": true,
           "activeWeek": 1
         },
@@ -24788,7 +24806,7 @@ const data = {
         {
           "name": "Test Grubu 1",
           "id": 10,
-          "group": "on-hazirlik"
+          "group": "Certification Preparation"
         },
         {
           "name": "Test Grubu 2",
@@ -24812,8 +24830,8 @@ const data = {
         },
         {
           "id": 13,
-          "name": "Ön Hazırlık Grubu",
-          "group": "on-hazirlik"
+          "name": "Preliminary Grubu",
+          "group": "Certification Preparation"
         },
         {
           "id": 14,
@@ -24832,8 +24850,8 @@ const data = {
         },
         {
           "id": 17,
-          "name": "Ön Hazırlık Grubu",
-          "group": "on-hazirlik"
+          "name": "Preliminary Grubu",
+          "group": "Certification Preparation"
         },
         {
           "id": 18,
@@ -24846,7 +24864,7 @@ const data = {
       "app": "document",
       "groups": [
         {
-          "name": "Ön Hazırlık Grubu",
+          "name": "Preliminary Grubu",
           "id": 1,
           "icon": ""
         },
