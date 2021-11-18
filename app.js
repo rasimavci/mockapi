@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use(function (req, res, next) {
 
   // Website you wish to allow to connect
-  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8081');
+  res.setHeader('Access-Control-Allow-Origin', '*');
 
   // Request methods you wish to allow
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
@@ -109,6 +109,30 @@ app.get('/api/v1.0/merge/ronwellTraining1', (req, res) => {
   res.status(200).send({
     success: 'true',
     message: 'waiting for status code 500',
+  })
+});
+
+app.get('/document/1', (req, res) => {
+  res.status(200).send({
+    data: data.documents[1],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/document/3', (req, res) => {
+  res.status(200).send({
+    data: data.documents[3],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/document/7', (req, res) => {
+  res.status(200).send({
+    data: data.documents[7],
+    success: 'true',
+    message: 'waiting for status code 200',
   })
 });
 

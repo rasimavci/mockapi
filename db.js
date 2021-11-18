@@ -23482,6 +23482,7 @@ const data = {
       "title": "Ranorex Certification Training0",
       "text": "Ranorex Certification Training",
       "visited": true,
+      "url": "",
       "groups": [
         {
           "id": 1,
@@ -23500,6 +23501,7 @@ const data = {
       "title": "Ranorex Certification Training1",
       "text": "Ranorex Certification Syllabus",
       "visited": true,
+      "url": "",
       "groups": [
         {
           "id": 0,
@@ -23518,6 +23520,7 @@ const data = {
       "title": "Ranorex Certification Training2",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
+      "url": "",
       "groups": [
         {
           "id": 0,
@@ -23538,9 +23541,10 @@ const data = {
     },
     {
       "id": 3,
-      "title": "Ranorex Certification Training3",
-      "text": "Lorem ipsum dolar sit amet",
+      "title": "Ranorex Certification Training",
+      "text": "Ranorex Certification Training",
       "visited": false,
+      "url": "https://cdn-e2w968qk.files-simplefileupload.com/static/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGsvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5281b736a887b5892f4eea83f8e3c71b32dae980/RanorexCertificationSubjects.pdf",
       "groups": [
         {
           "id": 0,
@@ -23554,6 +23558,7 @@ const data = {
       "title": "Ranorex Certification Training4",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
+      "url": "",
       "groups": [
         {
           "id": 0,
@@ -23569,9 +23574,10 @@ const data = {
     },
     {
       "id": 5,
-      "title": "Ranorex Certification Training5",
-      "text": "Lorem ipsum dolar sit amet",
+      "title": "CORS Training",
+      "text": "Dcoument for handle CORS issues",
       "visited": false,
+      "url": "",
       "groups": [
         {
           "id": 1,
@@ -23590,6 +23596,7 @@ const data = {
       "title": "Ranorex Certification Training6",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
+      "url": "",
       "groups": [
         {
           "id": 0,
@@ -23610,9 +23617,10 @@ const data = {
     },
     {
       "id": 7,
-      "title": "Ranorex Certification Training7",
-      "text": "Lorem ipsum dolar sit amet",
+      "title": "S4H01 - SAP Business Suite to SAP S/4HANA Delta",
+      "text": "OverviewUnit 1: Introduction to SAP S/4HANAUnit \n 2: User ExperienceUnit \n 3: SAP HANAUnit 4: ApplicationsUnit 5: AdoptionUnit 6: Embedded Analytics",
       "visited": false,
+      "url": "https://cdn-e2w968qk.files-simplefileupload.com/static/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG8vIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6d13f36f3f3246da9f7a7e7ff72c4a941a5e355/S4H01_EN_Col05_ILT_FV_Part_A4.pdf",
       "groups": [
         {
           "id": 1,
