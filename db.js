@@ -244,19 +244,19 @@ const data = {
         {
           "id": 0,
           "type": "info",
-          "text": "Tüm derslerinizi vaktinde yetiştirebilmeniz için <strong>haftada <span class='color-app'>10 ders</span> izlemelisiniz</strong>",
+          "text": "You must watch <strong><span class='color-app'>10 lessons</span> per week to complete all your lessons on time</strong>",
           "active": true
         },
         {
           "id": 1,
           "type": "warning",
-          "text": "2Tüm derslerinizi vaktinde yetiştirebilmeniz için <strong>haftada <span class='color-app'>10 ders</span> izlemelisiniz</strong>",
+          "text": "You must watch <strong><span class='color-app'>10 lessons</span> per week to complete all your lessons on time</strong>",
           "active": false
         },
         {
           "id": 2,
           "type": "warning",
-          "text": "Tüm derslerinizi vaktinde yetiştirebilmeniz için <strong>haftada <span class='color-app'>10 ders</span> izlemelisiniz</strong>",
+          "text": "You must watch <strong><span class='color-app'>10 lessons</span> per week to complete all your lessons on time</strong>",
           "active": false
         }
       ]
@@ -324,7 +324,7 @@ const data = {
   ],
   "lessonsInfo": {
     "what": {
-      "title": "RH+ Course Nedir",
+      "title": "What is Ronwell Academy Course",
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
@@ -389,8 +389,8 @@ const data = {
   "lessons": [
     {
       "id": 0,
-      "title": "Ranorex Fundamentals",
-      "tags":  ["etiket", "etiketimsi"],
+      "title": "Introduction to Ranorex",
+      "tags":  ["ranorex", "automation"],
       "group": "automation",
       "groupName": "Test Automation",
       "date": "2022-05-11",
@@ -402,7 +402,7 @@ const data = {
     {
       "id": 1,
       "title": "Advanced Ranorex",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["ranorex", "automation"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -413,7 +413,7 @@ const data = {
     {
       "id": 2,
       "title": "Course - 34",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["ranorex", "automation"],
       "group": "Certification Preparation",
       "date": "2022-02-12",
       "hour": "22:00",
@@ -423,8 +423,8 @@ const data = {
     },
     {
       "id": 3,
-      "title": "Course - 34",
-      "tags":  ["etiket", "etiketimsi"],
+      "title": "REST API testing with SOAP UI",
+      "tags":  ["soap", "automation", "soapui"],
       "group": "Certification Preparation",
       "date": "2018-11-25",
       "hour": "22:00",
@@ -434,8 +434,8 @@ const data = {
     },
     {
       "id": 4,
-      "title": "Course - 34",
-      "tags":  ["etiket", "etiketimsi"],
+      "title": "SOAP Testing with SOAP UI",
+      "tags":  ["soap", "automation"],
       "group": "deneme",
       "date": "2022-10-24",
       "hour": "22:00",
@@ -445,8 +445,8 @@ const data = {
     },
     {
       "id": 5,
-      "title": "Course - 34",
-      "tags":  ["etiket", "etiketimsi"],
+      "title": "AWS Cloud programming",
+      "tags":  ["aws", "cloud"],
       "group": "deneme",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -456,7 +456,7 @@ const data = {
     },
     {
       "id": 6,
-      "title": "Course - 34",
+      "title": "Unit Testing with TESSY",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -467,7 +467,7 @@ const data = {
     },
     {
       "id": 7,
-      "title": "Course - 34",
+      "title": "Device Communication with Flask and REST API",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -478,7 +478,7 @@ const data = {
     },
     {
       "id": 8,
-      "title": "Course - 34",
+      "title": "SAP Testing With Ranorex",
       "tags":  ["etiket", "etiketimsi"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
@@ -489,7 +489,7 @@ const data = {
     },
     {
       "id": 9,
-      "title": "Course - 34",
+      "title": "Load Testing with JMeter",
       "tags":  ["etiket", "etiketimsi"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
@@ -500,7 +500,7 @@ const data = {
     },
     {
       "id": 10,
-      "title": "Course - 34",
+      "title": "Test Management With Zephyr",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -511,7 +511,7 @@ const data = {
     },
     {
       "id": 11,
-      "title": "Course - 34",
+      "title": "Web Testing with Cpyress",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -522,8 +522,8 @@ const data = {
     },
     {
       "id": 12,
-      "title": "Course - 34",
-      "tags":  ["etiket", "etiketimsi"],
+      "title": "Mobile Testing with Ranorex",
+      "tags":  ["ranorex", "mobile"],
       "group": "ceviri",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -533,8 +533,8 @@ const data = {
     },
     {
       "id": 13,
-      "title": "Course - 34",
-      "tags":  ["etiket", "etiketimsi"],
+      "title": "Working with SPY in Ranorex",
+      "tags":  ["ranorex", "automation"],
       "group": "deneme",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -544,8 +544,8 @@ const data = {
     },
     {
       "id": 14,
-      "title": "Course - 34",
-      "tags":  ["etiket", "etiketimsi"],
+      "title": "Cross Platform Testing with Ranorex",
+      "tags":  ["ranorex", "automation"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -555,8 +555,8 @@ const data = {
     },
     {
       "id": 15,
-      "title": "Course - 34",
-      "tags":  ["etiket", "etiketimsi"],
+      "title": "Using Agents with Ranorex",
+      "tags":  ["ranorex", "automation"],
       "group": "ceviri",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -566,7 +566,7 @@ const data = {
     },
     {
       "id": 16,
-      "title": "Course - 34",
+      "title": "Amazon AppSync Workshop",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -577,7 +577,7 @@ const data = {
     },
     {
       "id": 17,
-      "title": "Course - 34",
+      "title": "Test Case Writing with Zephyr",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -588,7 +588,7 @@ const data = {
     },
     {
       "id": 18,
-      "title": "Course - 34",
+      "title": "Overview of SAP S / 4HANA",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -599,7 +599,7 @@ const data = {
     },
     {
       "id": 19,
-      "title": "Course - 34",
+      "title": "SAP Business Suite to SAP S/4HANA Delta",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -610,7 +610,7 @@ const data = {
     },
     {
       "id": 20,
-      "title": "Course - 34",
+      "title": "Innovative Logistics Processes in SAP S/4HANA Enterprise Management",
       "tags":  ["etiket", "etiketimsi"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
@@ -621,7 +621,7 @@ const data = {
     },
     {
       "id": 21,
-      "title": "Course - 34",
+      "title": "SAP S/4HANA Manufacturing – Features and Innovations",
       "tags":  ["etiket", "etiketimsi"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
@@ -632,7 +632,7 @@ const data = {
     },
     {
       "id": 22,
-      "title": "Course - 34",
+      "title": "S4F01 Financial accounting in SAP S / 4HANA for SAP ERP FI experts",
       "tags":  ["etiket", "etiketimsi"],
       "group": "ceviri",
       "date": "2018-12-12",
@@ -643,7 +643,7 @@ const data = {
     },
     {
       "id": 23,
-      "title": "Course - 34",
+      "title": "S4F02 Internal accounting in SAP S / 4HANA for SAP ERP CO experts",
       "tags":  ["etiket", "etiketimsi"],
       "group": "deneme",
       "date": "2018-12-12",
@@ -656,8 +656,8 @@ const data = {
   "lesson": [
     {
       "id": 0,
-      "name": "Course - 34",
-      "tags": ["etiket", "etiket2"],
+      "name": "Introduciton to Ranorex",
+      "tags": ["ranorex", "automation"],
       "group": "ceviri",
       "date": "2022-05-11",
       "hour": "22:00",

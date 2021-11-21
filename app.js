@@ -121,6 +121,14 @@ app.get('/courses', (req, res) => {
   })
 });
 
+app.get('/notifications', (req, res) => {
+  res.status(200).send({
+    data: data.notifications,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
 app.get('/api/v1.0/merge/ronwellTraining1', (req, res) => {
   res.status(200).send({
     success: 'true',
