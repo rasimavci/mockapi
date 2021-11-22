@@ -23745,8 +23745,8 @@ const data = {
     {
       "id": 0,
       "cover": "digibook-1.jpg",
-      "title": "Soru Çözüm Digibook",
-      "desc": "Soru çözüm grubu soru tipleri kitabı",
+      "title": "Dormakaba Self Study Digibook",
+      "desc": "Self study guide",
       "progress": 55,
       "date": "2022-05-12",
       "groups": [
