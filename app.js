@@ -67,7 +67,7 @@ app.get('/testsInfo', (req, res) => {
 
 app.get('/test', (req, res) => {
   res.status(200).send({
-    data: data.exams,
+    data: data.test,
     success: 'true',
     message: 'waiting for status code 200',
   })
