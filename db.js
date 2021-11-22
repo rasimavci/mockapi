@@ -395,7 +395,7 @@ const data = {
       "groupName": "Test Automation",
       "date": "2022-05-11",
       "hour": "22:00",
-      "progress": 85,
+      "progress": 100,
       "visited": true,
       "active": true
     },
@@ -412,7 +412,7 @@ const data = {
     },
     {
       "id": 2,
-      "title": "Course - 34",
+      "title": "Training for Ranorex Certification",
       "tags":  ["ranorex", "automation"],
       "group": "Certification Preparation",
       "date": "2022-02-12",
@@ -451,24 +451,24 @@ const data = {
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 55,
-      "visited": false,
+      "visited": true,
       "active": false
     },
     {
       "id": 6,
       "title": "Unit Testing with TESSY",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["unittest", "tessy"],
       "group": "ceviri",
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 55,
       "visited": false,
-      "active": false
+      "active": true
     },
     {
       "id": 7,
       "title": "Device Communication with Flask and REST API",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["test", "rest"],
       "group": "deneme",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -479,40 +479,40 @@ const data = {
     {
       "id": 8,
       "title": "SAP Testing With Ranorex",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["ranorex", "sap", "automation"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
-      "progress": 55,
-      "visited": false,
-      "active": false
+      "progress": 15,
+      "visited": true,
+      "active": true
     },
     {
       "id": 9,
       "title": "Load Testing with JMeter",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["load test", "jemeter", "automation"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
-      "progress": 55,
+      "progress": 45,
       "visited": false,
       "active": false
     },
     {
       "id": 10,
       "title": "Test Management With Zephyr",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["test", "zephry"],
       "group": "deneme",
       "date": "2018-12-12",
       "hour": "22:00",
       "progress": 55,
-      "visited": false,
-      "active": false
+      "visited": true,
+      "active": true
     },
     {
       "id": 11,
       "title": "Web Testing with Cpyress",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["web", "cypress", "automation"],
       "group": "ceviri",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -538,7 +538,7 @@ const data = {
       "group": "deneme",
       "date": "2018-12-12",
       "hour": "22:00",
-      "progress": 55,
+      "progress": 15,
       "visited": false,
       "active": false
     },
@@ -549,7 +549,7 @@ const data = {
       "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
-      "progress": 55,
+      "progress": 25,
       "visited": false,
       "active": false
     },
@@ -560,14 +560,14 @@ const data = {
       "group": "ceviri",
       "date": "2018-12-12",
       "hour": "22:00",
-      "progress": 55,
+      "progress": 65,
       "visited": false,
       "active": false
     },
     {
       "id": 16,
       "title": "Amazon AppSync Workshop",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["aws", "appsync", "cloud"],
       "group": "ceviri",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -578,7 +578,7 @@ const data = {
     {
       "id": 17,
       "title": "Test Case Writing with Zephyr",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["test", "zephry"],
       "group": "deneme",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -589,7 +589,7 @@ const data = {
     {
       "id": 18,
       "title": "Overview of SAP S / 4HANA",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["sap", "erp"],
       "group": "deneme",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -600,7 +600,7 @@ const data = {
     {
       "id": 19,
       "title": "SAP Business Suite to SAP S/4HANA Delta",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["sap", "erp"],
       "group": "ceviri",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -611,7 +611,7 @@ const data = {
     {
       "id": 20,
       "title": "Innovative Logistics Processes in SAP S/4HANA Enterprise Management",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["sap", "erp"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -622,7 +622,7 @@ const data = {
     {
       "id": 21,
       "title": "SAP S/4HANA Manufacturing – Features and Innovations",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["sap", "erp"],
       "group": "Certification Preparation",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -633,7 +633,7 @@ const data = {
     {
       "id": 22,
       "title": "S4F01 Financial accounting in SAP S / 4HANA for SAP ERP FI experts",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["sap", "erp"],
       "group": "ceviri",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -644,7 +644,7 @@ const data = {
     {
       "id": 23,
       "title": "S4F02 Internal accounting in SAP S / 4HANA for SAP ERP CO experts",
-      "tags":  ["etiket", "etiketimsi"],
+      "tags":  ["sap", "erp"],
       "group": "deneme",
       "date": "2018-12-12",
       "hour": "22:00",
@@ -759,7 +759,7 @@ const data = {
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "REMZİ HOCA",
+      "teacher": "Rasim Avcı",
       "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 26,
