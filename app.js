@@ -121,6 +121,23 @@ app.get('/courses', (req, res) => {
   })
 });
 
+app.get('/digibooksInfo', (req, res) => {
+  res.status(200).send({
+    data: data.digibooksInfo,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/digibooks', (req, res) => {
+  res.status(200).send({
+    data: data.digibooks,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+
 app.get('/notifications', (req, res) => {
   res.status(200).send({
     data: data.notifications,
