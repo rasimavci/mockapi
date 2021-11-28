@@ -89,6 +89,14 @@ app.get('/reading', (req, res) => {
   })
 });
 
+app.get('/reading/2', (req, res) => {
+  res.status(200).send({
+    data: data.reading[0],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
 app.get('/documentsInfo', (req, res) => {
   res.status(200).send({
     data: data.documentsInfo,
@@ -121,6 +129,59 @@ app.get('/courses', (req, res) => {
   })
 });
 
+app.get('/course/0', (req, res) => {
+  res.status(200).send({
+    data: data.lessons0,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/course/1', (req, res) => {
+  res.status(200).send({
+    data: data.lessons1,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/course/2', (req, res) => {
+  res.status(200).send({
+    data: data.lessons2,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/course/3', (req, res) => {
+  res.status(200).send({
+    data: data.lessons3,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/course/4', (req, res) => {
+  res.status(200).send({
+    data: data.lessons4,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+app.get('/course/5', (req, res) => {
+  res.status(200).send({
+    data: data.lessons5,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+app.get('/course/6', (req, res) => {
+  res.status(200).send({
+    data: data.lessons6,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
 app.get('/digibooksInfo', (req, res) => {
   res.status(200).send({
     data: data.digibooksInfo,
@@ -137,6 +198,69 @@ app.get('/digibooks', (req, res) => {
   })
 });
 
+app.get('/cluebanks', (req, res) => {
+  res.status(200).send({
+    data: data.cluebank,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/cluebankQuestions', (req, res) => {
+  res.status(200).send({
+    data: data.cluebankQuestions,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/cluebanksInfo', (req, res) => {
+  res.status(200).send({
+    data: data.cluebanksInfo,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/cluebankQuestions', (req, res) => {
+  res.status(200).send({
+    data: data.cluebankQuestions,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/cluebankGrammars', (req, res) => {
+  res.status(200).send({
+    data: data.cluebankGrammars,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/cluebankStrategies', (req, res) => {
+  res.status(200).send({
+    data: data.cluebankStrategies,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/cluebankWords', (req, res) => {
+  res.status(200).send({
+    data: data.cluebankWords,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/cluebank/1', (req, res) => {
+  res.status(200).send({
+    data: data.cluebank[0],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
 
 app.get('/notifications', (req, res) => {
   res.status(200).send({

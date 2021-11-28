@@ -669,7 +669,7 @@ const data = {
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -680,7 +680,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -691,7 +691,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -702,7 +702,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -713,7 +713,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -766,7 +766,7 @@ const data = {
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -777,7 +777,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -788,7 +788,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -799,7 +799,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -810,7 +810,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -856,14 +856,14 @@ const data = {
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "REMZİ HOCA",
+      "teacher": "RASİM AVCI",
       "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 73,
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -874,7 +874,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -885,7 +885,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -896,7 +896,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -907,7 +907,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -953,14 +953,14 @@ const data = {
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "REMZİ HOCA",
+      "teacher": "RASİM AVCI",
       "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -971,7 +971,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -982,7 +982,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -993,7 +993,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1004,7 +1004,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -1050,14 +1050,14 @@ const data = {
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "REMZİ HOCA",
+      "teacher": "RASİM AVCI",
       "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -1068,7 +1068,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1079,7 +1079,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -1090,7 +1090,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1101,7 +1101,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -1147,14 +1147,14 @@ const data = {
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "REMZİ HOCA",
+      "teacher": "RASİM AVCI",
       "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -1165,7 +1165,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1176,7 +1176,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -1187,7 +1187,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1198,7 +1198,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -1244,14 +1244,14 @@ const data = {
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "REMZİ HOCA",
+      "teacher": "RASİM AVCI",
       "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -1262,7 +1262,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1273,7 +1273,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -1284,7 +1284,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1295,7 +1295,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -1341,14 +1341,14 @@ const data = {
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "REMZİ HOCA",
+      "teacher": "RASİM AVCI",
       "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -1359,7 +1359,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1370,7 +1370,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -1381,7 +1381,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1392,7 +1392,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -1438,14 +1438,14 @@ const data = {
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "REMZİ HOCA",
+      "teacher": "RASİM AVCI",
       "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
         {
           "id": 0,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -1456,7 +1456,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1467,7 +1467,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "okuma",
           "time": null,
           "currentTime": null,
@@ -1478,7 +1478,7 @@ const data = {
         },
         {
           "id": 3,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "digibook",
           "time": null,
           "currentTime": null,
@@ -1489,7 +1489,7 @@ const data = {
         },
         {
           "id": 4,
-          "title": "Merhaba Dünya",
+          "title": "Hello World",
           "app": "deneme",
           "time": null,
           "currentTime": null,
@@ -2548,7 +2548,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2585,7 +2585,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2622,7 +2622,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2659,7 +2659,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2696,7 +2696,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2733,7 +2733,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2770,7 +2770,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2807,7 +2807,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2844,7 +2844,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2881,7 +2881,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2918,7 +2918,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -2955,7 +2955,7 @@ const data = {
       "title": "Zaman Bildiren İfadeler",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf",
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
@@ -6001,7 +6001,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 2,
@@ -7025,7 +7025,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 3,
@@ -8049,7 +8049,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 4,
@@ -9073,7 +9073,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 5,
@@ -10097,7 +10097,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 6,
@@ -11121,7 +11121,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 7,
@@ -12145,7 +12145,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 8,
@@ -13169,7 +13169,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 9,
@@ -14193,7 +14193,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 10,
@@ -15217,7 +15217,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 11,
@@ -16241,7 +16241,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 12,
@@ -17265,7 +17265,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 13,
@@ -18289,7 +18289,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 14,
@@ -19313,7 +19313,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 15,
@@ -20337,7 +20337,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 16,
@@ -21361,7 +21361,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 17,
@@ -22385,7 +22385,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 18,
@@ -23409,7 +23409,7 @@ const data = {
           "added": false
         }
       ],
-      "pdf": "https://remzihoca.test/storage/content/material/1522587798-260951.pdf"
+      "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf"
     }
   ],
   "documentsInfo": {
@@ -23639,42 +23639,42 @@ const data = {
     {
       "id": 0,
       "title": "YDS İçin Önemli Fiiler",
-      "pdfLocation": "https://www.remzihoca.com/storage/content/material/1522587798-260951.pdf"
+      "pdfLocation": "https://www.ronwellacademy.com/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 1,
       "title": "YDS İçin Önemli Fiiler",
-      "pdfLocation": "https://www.remzihoca.com/storage/content/material/1522587798-260951.pdf"
+      "pdfLocation": "https://www.ronwellacademy.com/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 2,
       "title": "YDS İçin Önemli Fiiler",
-      "pdfLocation": "https://www.remzihoca.com/storage/content/material/1522587798-260951.pdf"
+      "pdfLocation": "https://www.ronwellacademy.com/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 3,
       "title": "YDS İçin Önemli Fiiler",
-      "pdfLocation": "https://www.remzihoca.com/storage/content/material/1522587798-260951.pdf"
+      "pdfLocation": "https://www.ronwellacademy.com/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 4,
       "title": "YDS İçin Önemli Fiiler",
-      "pdfLocation": "https://www.remzihoca.com/storage/content/material/1522587798-260951.pdf"
+      "pdfLocation": "https://www.ronwellacademy.com/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 5,
       "title": "YDS İçin Önemli Fiiler",
-      "pdfLocation": "https://www.remzihoca.com/storage/content/material/1522587798-260951.pdf"
+      "pdfLocation": "https://www.ronwellacademy.com/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 6,
       "title": "YDS İçin Önemli Fiiler",
-      "pdfLocation": "https://www.remzihoca.com/storage/content/material/1522587798-260951.pdf"
+      "pdfLocation": "https://www.ronwellacademy.com/storage/content/material/1522587798-260951.pdf"
     },
     {
       "id": 7,
       "title": "YDS İçin Önemli Fiiler",
-      "pdfLocation": "https://www.remzihoca.com/storage/content/material/1522587798-260951.pdf"
+      "pdfLocation": "https://www.ronwellacademy.com/storage/content/material/1522587798-260951.pdf"
     }
   ],
   "digibookInfo":{
@@ -24731,11 +24731,11 @@ const data = {
       "active": false
     }
   ],
-  "lessons2": [
+  "lessons0": [
     {
       "id": 1,
-      "name": "Preposition Dersi",
-      "date": "2018.11.11",
+      "name": "Introduction to Ranorex",
+      "date": "2021.11.11",
       "hour": "19.00",
       "description": "",
       "watched": false,
@@ -24748,13 +24748,766 @@ const data = {
       "classroom": {
         "name": "Additional Course - Verbs"
       },
-      "homeworks": [],
+      "homeworksProgress": 78,
+      "homeworks": [
+        {
+          "id": 0,
+          "title": "Hello World",
+          "app": "dersler",
+          "time": 120,
+          "currentTime": 110,
+          "progress": 67,
+          "unit": null,
+          "exercise": null,
+          "content": null
+        },
+        {
+          "id": 1,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 67,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 2,
+          "title": "Hello World",
+          "app": "okuma",
+          "time": null,
+          "currentTime": null,
+          "progress": 22,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 3,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 0,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 4,
+          "title": "Hello World",
+          "app": "deneme",
+          "time": null,
+          "currentTime": null,
+          "progress": 100,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        }
+      ],
       "resources": [],
       "duration": 120,
-      "instructor": "Remzi Hoca",
-      "active": true
+      "instructor": "Yazzen Safadi",
+      "active": true,
+      "teacher": "Yazzen Safadi",
+      "description": "In this course you will get started with Ranorex Studio. You will learn basics of Ranorex, interfaces and connectivity, system details and more'",
+      "units": [
+        {
+          "id": 0,
+          "name": "Recorder",
+          "description": "<h3><strong>Ranorex Recoder</strong></h3>\n        <p>\n          The Ranorex Recorder allows you to record the keyboard and mouse actions necessary for a user interface test. \n	These actions appear in the Recorder’s action table, where you can edit them or add more.\n	This way, you can create recordings to suit your testing needs.\n		The Ranorex Recorder is available as an integrated tool in Ranorex Studio and as a stand-alone version.\n        </p>\n        <ul>\n          <li>Introduction.</li>\n          <li>Create Project.</li>\n          <li>Start recording.</li>\n          <li>Analyse Recording.</li>\n          <li>Run Recording.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 1,
+          "name": "Test Suite",
+          "description": "<h3><strong>Ranorex Recorder</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 2,
+          "name": "Actions",
+          "description": "<h3><strong>Ranorex Spy</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 3,
+          "name": "Repository",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 4,
+          "name": "Validation",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        }
+      ],
+    
+    }
+  ],  
+  "lessons1": [
+    {
+      "id": 1,
+      "name": "Advanced Ranorex",
+      "date": "2022.01.10",
+      "hour": "19.00",
+      "description": "",
+      "watched": false,
+      "week": 1,
+      "group": {
+        "id": 10,
+        "name": "Preliminary Grubu"
+      },
+      "group_id": 10,
+      "classroom": {
+        "name": "Additional Course - Verbs"
+      },
+      "homeworksProgress": 78,
+      "homeworks": [
+        {
+          "id": 0,
+          "title": "Hello World",
+          "app": "dersler",
+          "time": 120,
+          "currentTime": 110,
+          "progress": 67,
+          "unit": null,
+          "exercise": null,
+          "content": null
+        },
+        {
+          "id": 1,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 67,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 2,
+          "title": "Hello World",
+          "app": "okuma",
+          "time": null,
+          "currentTime": null,
+          "progress": 22,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 3,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 0,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 4,
+          "title": "Hello World",
+          "app": "deneme",
+          "time": null,
+          "currentTime": null,
+          "progress": 100,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        }
+      ],
+      "resources": [],
+      "duration": 120,
+      "instructor": "Konstantina Polydorou",
+      "active": true,
+      "teacher": "Konstantina Polydorou",
+      "description": "In this course you will learn some advanced staff with Ranorex Studio. You will learn writing code for UI objetys, manipulating repository with C#. Ranorex API interfaces and connectivity, system details and more'",
+      "units": [
+        {
+          "id": 0,
+          "name": "Writing Code",
+          "description": "<h3><strong>Writing Cdode inside Ranorex</strong></h3>\n        <p>\n          The Ranorex Recorder allows you to record the keyboard and mouse actions necessary for a user interface test. \n	These actions appear in the Recorder’s action table, where you can edit them or add more.\n	This way, you can create recordings to suit your testing needs.\n		The Ranorex Recorder is available as an integrated tool in Ranorex Studio and as a stand-alone version.\n        </p>\n        <ul>\n          <li>Introduction.</li>\n          <li>Create Project.</li>\n          <li>Start recording.</li>\n          <li>Analyse Recording.</li>\n          <li>Run Recording.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 1,
+          "name": "Working with Lists",
+          "description": "<h3><strong>Ranorex Recorder</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 2,
+          "name": "Working with Buttons",
+          "description": "<h3><strong>Ranorex Spy</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 3,
+          "name": "Working with Tables",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 4,
+          "name": "Working with Trees",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        }
+      ],
+    
     }
   ],
+  "lessons2": [
+    {
+      "id": 1,
+      "name": "Ranorex Certification Training",
+      "date": "2021.11.11",
+      "hour": "19.00",
+      "description": "",
+      "watched": false,
+      "week": 1,
+      "group": {
+        "id": 10,
+        "name": "Preliminary Grubu"
+      },
+      "group_id": 10,
+      "classroom": {
+        "name": "Additional Course - Verbs"
+      },
+      "homeworksProgress": 78,
+      "homeworks": [
+        {
+          "id": 0,
+          "title": "Hello World",
+          "app": "dersler",
+          "time": 120,
+          "currentTime": 110,
+          "progress": 67,
+          "unit": null,
+          "exercise": null,
+          "content": null
+        },
+        {
+          "id": 1,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 67,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 2,
+          "title": "Hello World",
+          "app": "okuma",
+          "time": null,
+          "currentTime": null,
+          "progress": 22,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 3,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 0,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 4,
+          "title": "Hello World",
+          "app": "deneme",
+          "time": null,
+          "currentTime": null,
+          "progress": 100,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        }
+      ],
+      "resources": [],
+      "duration": 120,
+      "instructor": "Yazzen Safadi",
+      "active": true,
+      "teacher": "Yazzen Safadi",
+      "description": "In this course you will get prepared for oficial Ranorex Certification Exam. You will practive with with questions from previous exams.'",
+      "units": [
+        {
+          "id": 0,
+          "name": "Recorder",
+          "description": "<h3><strong>Ranorex Recoder</strong></h3>\n        <p>\n          The Ranorex Recorder allows you to record the keyboard and mouse actions necessary for a user interface test. \n	These actions appear in the Recorder’s action table, where you can edit them or add more.\n	This way, you can create recordings to suit your testing needs.\n		The Ranorex Recorder is available as an integrated tool in Ranorex Studio and as a stand-alone version.\n        </p>\n        <ul>\n          <li>Introduction.</li>\n          <li>Create Project.</li>\n          <li>Start recording.</li>\n          <li>Analyse Recording.</li>\n          <li>Run Recording.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 1,
+          "name": "Test Suite",
+          "description": "<h3><strong>Ranorex Recorder</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 2,
+          "name": "Actions",
+          "description": "<h3><strong>Ranorex Spy</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 3,
+          "name": "Repository",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 4,
+          "name": "Validation",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        }
+      ],
+    
+    }
+  ],
+  "lessons3": [
+    {
+      "id": 1,
+      "name": "REST API Testing with Ranorex",
+      "date": "2021.11.11",
+      "hour": "19.00",
+      "description": "",
+      "watched": false,
+      "week": 1,
+      "group": {
+        "id": 10,
+        "name": "Preliminary Grubu"
+      },
+      "group_id": 10,
+      "classroom": {
+        "name": "Additional Course - Verbs"
+      },
+      "homeworksProgress": 78,
+      "homeworks": [
+        {
+          "id": 0,
+          "title": "Hello World",
+          "app": "dersler",
+          "time": 120,
+          "currentTime": 110,
+          "progress": 67,
+          "unit": null,
+          "exercise": null,
+          "content": null
+        },
+        {
+          "id": 1,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 67,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 2,
+          "title": "Hello World",
+          "app": "okuma",
+          "time": null,
+          "currentTime": null,
+          "progress": 22,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 3,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 0,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 4,
+          "title": "Hello World",
+          "app": "deneme",
+          "time": null,
+          "currentTime": null,
+          "progress": 100,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        }
+      ],
+      "resources": [],
+      "duration": 120,
+      "instructor": "Eren Anar",
+      "active": true,
+      "teacher": "Eren Anar",
+      "description": "In this course you will learn integrating REST API libraries with Ranorex. You will learn REST API messaging with Ranorex and advanced topics.'",
+      "units": [
+        {
+          "id": 0,
+          "name": "Recorder",
+          "description": "<h3><strong>Ranorex Recoder</strong></h3>\n        <p>\n          The Ranorex Recorder allows you to record the keyboard and mouse actions necessary for a user interface test. \n	These actions appear in the Recorder’s action table, where you can edit them or add more.\n	This way, you can create recordings to suit your testing needs.\n		The Ranorex Recorder is available as an integrated tool in Ranorex Studio and as a stand-alone version.\n        </p>\n        <ul>\n          <li>Introduction.</li>\n          <li>Create Project.</li>\n          <li>Start recording.</li>\n          <li>Analyse Recording.</li>\n          <li>Run Recording.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 1,
+          "name": "Test Suite",
+          "description": "<h3><strong>Ranorex Recorder</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 2,
+          "name": "Actions",
+          "description": "<h3><strong>Ranorex Spy</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 3,
+          "name": "Repository",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 4,
+          "name": "Validation",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        }
+      ],
+    
+    }
+  ],  
+  "lessons4": [
+    {
+      "id": 1,
+      "name": "SOAP Testing With Ranorex",
+      "date": "2022.11.11",
+      "hour": "19.00",
+      "description": "",
+      "watched": false,
+      "week": 1,
+      "group": {
+        "id": 10,
+        "name": "Preliminary Grubu"
+      },
+      "group_id": 10,
+      "classroom": {
+        "name": "Additional Course - Verbs"
+      },
+      "homeworksProgress": 78,
+      "homeworks": [
+        {
+          "id": 0,
+          "title": "Hello World",
+          "app": "dersler",
+          "time": 120,
+          "currentTime": 110,
+          "progress": 67,
+          "unit": null,
+          "exercise": null,
+          "content": null
+        },
+        {
+          "id": 1,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 67,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 2,
+          "title": "Hello World",
+          "app": "okuma",
+          "time": null,
+          "currentTime": null,
+          "progress": 22,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 3,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 0,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 4,
+          "title": "Hello World",
+          "app": "deneme",
+          "time": null,
+          "currentTime": null,
+          "progress": 100,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        }
+      ],
+      "resources": [],
+      "duration": 120,
+      "instructor": "Rasim Avci",
+      "active": true,
+      "teacher": "Rasim Avcı",
+      "description": "In this course you will learn integrating SOAP libraries with Ranorex. You will learn SOAP messaging, creating an envelop, validation XML response with Ranorex and advanced topics on SOAP.'",
+      "units": [
+        {
+          "id": 0,
+          "name": "Basics of SOAP",
+          "description": "<h3><strong>Ranorex Recoder</strong></h3>\n        <p>\n          The Ranorex Recorder allows you to record the keyboard and mouse actions necessary for a user interface test. \n	These actions appear in the Recorder’s action table, where you can edit them or add more.\n	This way, you can create recordings to suit your testing needs.\n		The Ranorex Recorder is available as an integrated tool in Ranorex Studio and as a stand-alone version.\n        </p>\n        <ul>\n          <li>Introduction.</li>\n          <li>Create Project.</li>\n          <li>Start recording.</li>\n          <li>Analyse Recording.</li>\n          <li>Run Recording.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 1,
+          "name": "Creating Envelope",
+          "description": "<h3><strong>Ranorex Recorder</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 2,
+          "name": "Send Request",
+          "description": "<h3><strong>Ranorex Spy</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 3,
+          "name": "Parse SOAP Message",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 4,
+          "name": "Validate XML Nodes",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        }
+      ],
+    
+    }
+  ],
+  "lessons5": [
+    {
+      "id": 1,
+      "name": "AWS Cloud Programming",
+      "date": "2022.11.11",
+      "hour": "19.00",
+      "description": "",
+      "watched": false,
+      "week": 1,
+      "group": {
+        "id": 10,
+        "name": "Preliminary Grubu"
+      },
+      "group_id": 10,
+      "classroom": {
+        "name": "Additional Course - Verbs"
+      },
+      "homeworksProgress": 78,
+      "homeworks": [
+        {
+          "id": 0,
+          "title": "Hello World",
+          "app": "dersler",
+          "time": 120,
+          "currentTime": 110,
+          "progress": 67,
+          "unit": null,
+          "exercise": null,
+          "content": null
+        },
+        {
+          "id": 1,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 67,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 2,
+          "title": "Hello World",
+          "app": "okuma",
+          "time": null,
+          "currentTime": null,
+          "progress": 22,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 3,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 0,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 4,
+          "title": "Hello World",
+          "app": "deneme",
+          "time": null,
+          "currentTime": null,
+          "progress": 100,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        }
+      ],
+      "resources": [],
+      "duration": 120,
+      "instructor": "Omid Kazemy",
+      "active": true,
+      "teacher": "Omid Kazemy",
+      "description": "In this course you will learn integrating SOAP libraries with Ranorex. You will learn SOAP messaging, creating an envelop, validation XML response with Ranorex and advanced topics on SOAP.'",
+      "units": [
+        {
+          "id": 0,
+          "name": "Basic Knowledge",
+          "description": "<h3><strong>Ranorex Recoder</strong></h3>\n        <p>\n          The Ranorex Recorder allows you to record the keyboard and mouse actions necessary for a user interface test. \n	These actions appear in the Recorder’s action table, where you can edit them or add more.\n	This way, you can create recordings to suit your testing needs.\n		The Ranorex Recorder is available as an integrated tool in Ranorex Studio and as a stand-alone version.\n        </p>\n        <ul>\n          <li>Introduction.</li>\n          <li>Create Project.</li>\n          <li>Start recording.</li>\n          <li>Analyse Recording.</li>\n          <li>Run Recording.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 1,
+          "name": "Configuring Environment",
+          "description": "<h3><strong>Ranorex Recorder</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 2,
+          "name": "Practical Examples",
+          "description": "<h3><strong>Ranorex Spy</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 3,
+          "name": "Backup, restore",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 4,
+          "name": "Troubleshooting",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        }
+      ],
+    
+    }
+  ],
+  "lessons6": [
+    {
+      "id": 1,
+      "name": "Unit Testing with Tessy",
+      "date": "2022.03.05",
+      "hour": "19.00",
+      "description": "",
+      "watched": false,
+      "week": 1,
+      "group": {
+        "id": 10,
+        "name": "Preliminary Grubu"
+      },
+      "group_id": 10,
+      "classroom": {
+        "name": "Additional Course - Verbs"
+      },
+      "homeworksProgress": 78,
+      "homeworks": [
+        {
+          "id": 0,
+          "title": "Hello World",
+          "app": "dersler",
+          "time": 120,
+          "currentTime": 110,
+          "progress": 67,
+          "unit": null,
+          "exercise": null,
+          "content": null
+        },
+        {
+          "id": 1,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 67,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 2,
+          "title": "Hello World",
+          "app": "okuma",
+          "time": null,
+          "currentTime": null,
+          "progress": 22,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 3,
+          "title": "Hello World",
+          "app": "digibook",
+          "time": null,
+          "currentTime": null,
+          "progress": 0,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        },
+        {
+          "id": 4,
+          "title": "Hello World",
+          "app": "deneme",
+          "time": null,
+          "currentTime": null,
+          "progress": 100,
+          "unit": "Ünite 1",
+          "exercise": "Alıştırma 3",
+          "content": "Benjamin İçeriği"
+        }
+      ],
+      "resources": [],
+      "duration": 120,
+      "instructor": "Heimar Riedl Christ",
+      "active": true,
+      "teacher": "Heimar Riedl Christ",
+      "description": "In this course you will learn integrating SOAP libraries with Ranorex. You will learn SOAP messaging, creating an envelop, validation XML response with Ranorex and advanced topics on SOAP.'",
+      "units": [
+        {
+          "id": 0,
+          "name": "Installation",
+          "description": "<h3><strong>Ranorex Recoder</strong></h3>\n        <p>\n          The Ranorex Recorder allows you to record the keyboard and mouse actions necessary for a user interface test. \n	These actions appear in the Recorder’s action table, where you can edit them or add more.\n	This way, you can create recordings to suit your testing needs.\n		The Ranorex Recorder is available as an integrated tool in Ranorex Studio and as a stand-alone version.\n        </p>\n        <ul>\n          <li>Introduction.</li>\n          <li>Create Project.</li>\n          <li>Start recording.</li>\n          <li>Analyse Recording.</li>\n          <li>Run Recording.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 1,
+          "name": "Basic Knowledge",
+          "description": "<h3><strong>Ranorex Recorder</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 2,
+          "name": "Practical Exercises",
+          "description": "<h3><strong>Ranorex Spy</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 3,
+          "name": "Editing C Source",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        },
+        {
+          "id": 4,
+          "name": "Assigning Interface Data",
+          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+        }
+      ],
+    
+    }
+  ],  
   "homeworks": [
     {
       "title": "Verb Odevi",
@@ -24764,7 +25517,7 @@ const data = {
       },
       "lesson": {
         "id": 1,
-        "title": "Preposition Dersi"
+        "title": "Preposition Dersii"
       },
       "group": {
         "id": 1,
