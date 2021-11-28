@@ -40,6 +40,22 @@ app.get('/user', (req, res) => {
   })
 });
 
+app.get('/study-plan', (req, res) => {
+  res.status(200).send({
+    data: data.studyplan,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/apps', (req, res) => {
+  res.status(200).send({
+    data: data.apps,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
 app.get('/examsInfo', (req, res) => {
   res.status(200).send({
     data: data.examsInfo,
@@ -67,7 +83,7 @@ app.get('/testsInfo', (req, res) => {
 
 app.get('/test', (req, res) => {
   res.status(200).send({
-    data: data.test,
+    data: data.tests,
     success: 'true',
     message: 'waiting for status code 200',
   })
@@ -89,6 +105,21 @@ app.get('/reading', (req, res) => {
   })
 });
 
+app.get('/reading/0', (req, res) => {
+  res.status(200).send({
+    data: data.reading[0],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+app.get('/reading/1', (req, res) => {
+  res.status(200).send({
+    data: data.reading[1],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
 app.get('/reading/2', (req, res) => {
   res.status(200).send({
     data: data.reading[0],
@@ -97,6 +128,66 @@ app.get('/reading/2', (req, res) => {
   })
 });
 
+app.get('/reading/3', (req, res) => {
+  res.status(200).send({
+    data: data.reading[3],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+app.get('/reading/4', (req, res) => {
+  res.status(200).send({
+    data: data.reading[4],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/reading/5', (req, res) => {
+  res.status(200).send({
+    data: data.reading[5],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/reading/6', (req, res) => {
+  res.status(200).send({
+    data: data.reading[6],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+app.get('/reading/7', (req, res) => {
+  res.status(200).send({
+    data: data.reading[7],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/reading/8', (req, res) => {
+  res.status(200).send({
+    data: data.reading[8],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+
+app.get('/reading/9', (req, res) => {
+  res.status(200).send({
+    data: data.reading[9],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
+app.get('/reading/16', (req, res) => {
+  res.status(200).send({
+    data: data.reading[16],
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+});
 app.get('/documentsInfo', (req, res) => {
   res.status(200).send({
     data: data.documentsInfo,

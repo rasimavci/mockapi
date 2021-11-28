@@ -4,7 +4,7 @@ const data = {
     "firstname": "Rasim",
     "lastname": "Avcı",
     "fullname": "Rasim Avcı",
-    "avatar": "https://.../pixelate.png",
+    "avatar": "https://.../profile.png",
     "badge": "High Performance",
     "progress": 55,
     "apps": [
@@ -72,7 +72,7 @@ const data = {
       "icon": "icon-pens",
       "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
-      "link": "/dersler/11"
+      "link": "/courses/11"
     },
     {
       "id": 1,
@@ -81,7 +81,7 @@ const data = {
       "icon": "icon-pens",
       "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
-      "link": "/dokuman/1"
+      "link": "/documents/1"
     },
     {
       "id": 2,
@@ -90,7 +90,7 @@ const data = {
       "icon": "icon-pens",
       "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
-      "link": "/dersler/23"
+      "link": "/courses/23"
     },
     {
       "id": 3,
@@ -233,13 +233,13 @@ const data = {
       "updated_at": "2018.11.11"
     }
   ],
-  "study-plan": [
+  "studyplan": [
     {
       "id": 0,
-      "app": "dersler",
-      "title": "Dersler",
+      "app": "courses",
+      "title": "Courses",
       "progress": 80,
-      "buttonText": "DERSLERE GİT",
+      "buttonText": "MY COURSES",
       "notifications": [
         {
           "id": 0,
@@ -264,14 +264,14 @@ const data = {
     {
       "id": 1,
       "app": "wordy",
-      "title": "Wordy",
+      "title": "Workshop",
       "progress": 100,
-      "buttonText": "WORDY’YE GİT",
+      "buttonText": "GO TO WORKSHOPS",
       "notifications": [
         {
           "id": 0,
           "type": "warning",
-          "text": "Tüm derslerinizi vaktinde yetiştirebilmeniz için <strong>haftada <span class='color-app'>10 ders</span> izlemelisiniz</strong>",
+          "text": "To complete all your lessons on time, you must watch <strong><span class='color-app'>10 lessons</span> per week</strong>",
           "active": true
         }
       ]
@@ -279,29 +279,29 @@ const data = {
     {
       "id": 2,
       "app": "deneme",
-      "title": "Deneme",
+      "title": "QUIZZES",
       "progress": 25,
       "buttonText": "GO PRACTICE EXAM",
       "notifications": [
         {
           "id": 0,
           "type": "info",
-          "text": "Tüm derslerinizi vaktinde yetiştirebilmeniz için <strong>haftada <span class='color-app'>10 ders</span> izlemelisiniz</strong>",
+          "text": "To complete all your lessons on time, you must watch <strong><span class='color-app'>10 lessons</span> per week</strong>",
           "active": true
         }
       ]
     },
     {
       "id": 3,
-      "app": "okuma",
-      "title": "Okuma",
+      "app": "reading",
+      "title": "Reading",
       "progress": 65,
       "buttonText": "GO TO READING",
       "notifications": [
         {
           "id": 0,
           "type": "info",
-          "text": "Tüm derslerinizi vaktinde yetiştirebilmeniz için <strong>haftada <span class='color-app'>10 ders</span> izlemelisiniz</strong>",
+          "text": "To complete all your lessons on time, you must watch <strong><span class='color-app'>10 lessons</span> per week</strong>",
           "active": true
         }
       ]
@@ -316,7 +316,7 @@ const data = {
         {
           "id": 0,
           "type": "warning",
-          "text": "Tüm derslerinizi vaktinde yetiştirebilmeniz için <strong>haftada <span class='color-app'>10 ders</span> izlemelisiniz</strong>",
+          "text": "To complete all your lessons on time, you must watch <strong><span class='color-app'>10 lessons</span> per week</strong>",
           "active": true
         }
       ]
@@ -346,7 +346,7 @@ const data = {
         "id": 1,
         "group": "Certification Preparation",
         "progress": 55,
-        "title": "Preliminary Grubu"
+        "title": "Preliminary Group"
       },
       {
         "id": 2,
@@ -3012,7 +3012,7 @@ const data = {
         "id": 1,
         "group": "Certification Preparation",
         "progress": 55,
-        "title": "Preliminary Grubu"
+        "title": "Preliminary Group"
       },
       {
         "id": 2,
@@ -3084,7 +3084,7 @@ const data = {
       "id": 2,
       "date": "2022-02-15",
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "type": "Preposition Question Type",
       "typeId" : 2,
       "title": "Translation Exam 3",
@@ -3101,7 +3101,7 @@ const data = {
       "id": 3,
       "date": "2018-11-08",
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "type": "Preposition Question Type",
       "typeId" : 2,
       "title": "Translation Exam 6",
@@ -3152,7 +3152,7 @@ const data = {
       "id": 6,
       "date": "2022-12-03",
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "type": "Single Selection Question Type",
       "typeId" : 1,
       "title": "Translation Exam 3",
@@ -3203,7 +3203,7 @@ const data = {
       "id": 9,
       "date": "2022-02-15",
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "type": "Preposition Question Type",
       "typeId" : 2,
       "title": "Translation Exam 3",
@@ -3220,7 +3220,7 @@ const data = {
       "id": 10,
       "date": "2018-11-08",
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "type": "Preposition Question Type",
       "typeId" : 2,
       "title": "Translation Exam 6",
@@ -3271,7 +3271,7 @@ const data = {
       "id": 13,
       "date": "2022-12-03",
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "type": "Single Selection Question Type",
       "typeId" : 1,
       "title": "Translation Exam 3",
@@ -3883,7 +3883,7 @@ const data = {
         "id": 1,
         "group": "Certification Preparation",
         "progress": 55,
-        "title": "Preliminary Grubu"
+        "title": "Preliminary Group"
       },
       {
         "id": 2,
@@ -4561,7 +4561,7 @@ const data = {
         "id": 1,
         "group": "Certification Preparation",
         "progress": 55,
-        "title": "Preliminary Grubu"
+        "title": "Preliminary Group"
       },
       {
         "id": 2,
@@ -4579,7 +4579,7 @@ const data = {
         "id": 4,
         "group": "Certification Preparation",
         "progress": 55,
-        "title": "Preliminary Grubu"
+        "title": "Preliminary Group"
       },
       {
         "id": 5,
@@ -4607,7 +4607,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2021-12-12",
       "tags": [
         "galaxy",
@@ -4670,7 +4670,7 @@ const data = {
       "img": "reading-2",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-02-18",
       "tags": [
         "galaxy",
@@ -4712,7 +4712,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-12-11",
       "tags": [
         "galaxy",
@@ -4733,7 +4733,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-07-07",
       "tags": [
         "galaxy",
@@ -4796,7 +4796,7 @@ const data = {
       "img": "reading-2",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-09-24",
       "tags": [
         "galaxy",
@@ -4838,7 +4838,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2018-09-09",
       "tags": [
         "galaxy",
@@ -4880,7 +4880,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2018-01-18",
       "tags": [
         "galaxy",
@@ -4901,7 +4901,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-07-13",
       "tags": [
         "galaxy",
@@ -4964,7 +4964,7 @@ const data = {
       "img": "reading-2",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2014-12-15",
       "tags": [
         "galaxy",
@@ -8056,7 +8056,7 @@ const data = {
       "img": "reading-2",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-02-18",
       "tags": [
         "galaxy",
@@ -10104,7 +10104,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-12-11",
       "tags": [
         "galaxy",
@@ -11128,7 +11128,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-07-07",
       "tags": [
         "galaxy",
@@ -14200,7 +14200,7 @@ const data = {
       "img": "reading-2",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-09-24",
       "tags": [
         "galaxy",
@@ -16248,7 +16248,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2018-09-09",
       "tags": [
         "galaxy",
@@ -18296,7 +18296,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2018-01-18",
       "tags": [
         "galaxy",
@@ -19320,14 +19320,14 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2022-07-13",
       "tags": [
         "galaxy",
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "What is Culture",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -22392,7 +22392,7 @@ const data = {
       "img": "reading-2",
       "groupId": 12,
       "group": "Certification Preparation",
-      "groupName": "Preliminary Grubu",
+      "groupName": "Preliminary Group",
       "date": "2014-12-15",
       "tags": [
         "galaxy",
@@ -23436,7 +23436,7 @@ const data = {
         "id": 1,
         "group": "Certification Preparation",
         "progress": 55,
-        "title": "Preliminary Grubu"
+        "title": "Preliminary Group"
       },
       {
         "id": 2,
@@ -23524,7 +23524,7 @@ const data = {
       "groups": [
         {
           "id": 0,
-          "title": "Preliminary Grubu",
+          "title": "Preliminary Group",
           "name": "Certification Preparation"
         },
         {
@@ -23562,7 +23562,7 @@ const data = {
       "groups": [
         {
           "id": 0,
-          "title": "Preliminary Grubu",
+          "title": "Preliminary Group",
           "name": "Certification Preparation"
         },
         {
@@ -23600,7 +23600,7 @@ const data = {
       "groups": [
         {
           "id": 0,
-          "title": "Preliminary Grubu",
+          "title": "Preliminary Group",
           "name": "Certification Preparation"
         },
         {
@@ -23701,7 +23701,7 @@ const data = {
         "id": 1,
         "group": "Certification Preparation",
         "progress": 55,
-        "title": "Preliminary Grubu"
+        "title": "Preliminary Group"
       },
       {
         "id": 2,
@@ -24742,7 +24742,7 @@ const data = {
       "week": 1,
       "group": {
         "id": 10,
-        "name": "Preliminary Grubu"
+        "name": "Preliminary Group"
       },
       "group_id": 10,
       "classroom": {
@@ -24853,7 +24853,7 @@ const data = {
       "week": 1,
       "group": {
         "id": 10,
-        "name": "Preliminary Grubu"
+        "name": "Preliminary Group"
       },
       "group_id": 10,
       "classroom": {
@@ -24964,7 +24964,7 @@ const data = {
       "week": 1,
       "group": {
         "id": 10,
-        "name": "Preliminary Grubu"
+        "name": "Preliminary Group"
       },
       "group_id": 10,
       "classroom": {
@@ -25075,7 +25075,7 @@ const data = {
       "week": 1,
       "group": {
         "id": 10,
-        "name": "Preliminary Grubu"
+        "name": "Preliminary Group"
       },
       "group_id": 10,
       "classroom": {
@@ -25186,7 +25186,7 @@ const data = {
       "week": 1,
       "group": {
         "id": 10,
-        "name": "Preliminary Grubu"
+        "name": "Preliminary Group"
       },
       "group_id": 10,
       "classroom": {
@@ -25297,7 +25297,7 @@ const data = {
       "week": 1,
       "group": {
         "id": 10,
-        "name": "Preliminary Grubu"
+        "name": "Preliminary Group"
       },
       "group_id": 10,
       "classroom": {
@@ -25408,7 +25408,7 @@ const data = {
       "week": 1,
       "group": {
         "id": 10,
-        "name": "Preliminary Grubu"
+        "name": "Preliminary Group"
       },
       "group_id": 10,
       "classroom": {
@@ -25521,7 +25521,7 @@ const data = {
       },
       "group": {
         "id": 1,
-        "name": "Preliminary Grubu"
+        "name": "Preliminary Group"
       }
     }
   ],
@@ -25531,7 +25531,7 @@ const data = {
       "groups": [
         {
           "id": 1,
-          "name": "Preliminary Grubu",
+          "name": "Preliminary Group",
           "active": true,
           "activeWeek": 1
         },
@@ -25591,7 +25591,7 @@ const data = {
         },
         {
           "id": 13,
-          "name": "Preliminary Grubu",
+          "name": "Preliminary Group",
           "group": "Certification Preparation"
         },
         {
@@ -25611,7 +25611,7 @@ const data = {
         },
         {
           "id": 17,
-          "name": "Preliminary Grubu",
+          "name": "Preliminary Group",
           "group": "Certification Preparation"
         },
         {
@@ -25625,7 +25625,7 @@ const data = {
       "app": "document",
       "groups": [
         {
-          "name": "Preliminary Grubu",
+          "name": "Preliminary Group",
           "id": 1,
           "icon": ""
         },
