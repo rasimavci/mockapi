@@ -1,5 +1,5 @@
 # mockapi
-
+This project introduces API mocking with express that lets you build, test and share a complete working JavaScript application without having to rely on any backend API or services
 
 ## Just Run
 ```

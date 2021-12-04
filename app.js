@@ -7,7 +7,7 @@ import data  from './db.js';
 
 // Set up the express app
 const app = express();
-
+var readId = 9;
 //app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(express.urlencoded({ extended: true }))
@@ -73,6 +73,39 @@ app.get('/exams', (req, res) => {
   })
 });
 
+app.get('/exams/:group', (req, res) => {
+
+  if(req.params.group == 'test') {
+    res.status(200).send({
+      data: data.examsTest,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+
+  } else if(req.params.group == 'devops'){
+    res.status(200).send({
+      data: data.examsDevops,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  } else if(req.params.group == 'agile'){
+    res.status(200).send({
+      data: data.examsAgile,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  }  
+  else {
+    res.status(200).send({
+      data: data.exams,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  }
+
+
+});
+
 app.get('/testsInfo', (req, res) => {
   res.status(200).send({
     data: data.testsInfo,
@@ -105,89 +138,14 @@ app.get('/reading', (req, res) => {
   })
 });
 
-app.get('/reading/0', (req, res) => {
+app.get('/reading/:id', (req, res) => {
   res.status(200).send({
-    data: data.reading[0],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-app.get('/reading/1', (req, res) => {
-  res.status(200).send({
-    data: data.reading[1],
+    data: data.reading[req.params.id],
     success: 'true',
     message: 'waiting for status code 200',
   })
 });
 
-app.get('/reading/2', (req, res) => {
-  res.status(200).send({
-    data: data.reading[0],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-
-app.get('/reading/3', (req, res) => {
-  res.status(200).send({
-    data: data.reading[3],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-app.get('/reading/4', (req, res) => {
-  res.status(200).send({
-    data: data.reading[4],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-
-app.get('/reading/5', (req, res) => {
-  res.status(200).send({
-    data: data.reading[5],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-
-app.get('/reading/6', (req, res) => {
-  res.status(200).send({
-    data: data.reading[6],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-app.get('/reading/7', (req, res) => {
-  res.status(200).send({
-    data: data.reading[7],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-
-app.get('/reading/8', (req, res) => {
-  res.status(200).send({
-    data: data.reading[8],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-
-app.get('/reading/9', (req, res) => {
-  res.status(200).send({
-    data: data.reading[9],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
-app.get('/reading/16', (req, res) => {
-  res.status(200).send({
-    data: data.reading[16],
-    success: 'true',
-    message: 'waiting for status code 200',
-  })
-});
 app.get('/documentsInfo', (req, res) => {
   res.status(200).send({
     data: data.documentsInfo,
@@ -198,11 +156,42 @@ app.get('/documentsInfo', (req, res) => {
 
 app.get('/documents', (req, res) => {
   res.status(200).send({
-    data: data.documents,
+    data: data.documentsDevelopment,
     success: 'true',
     message: 'waiting for status code 200',
   })
 });
+
+app.get('/documents/:group', (req, res) => {
+
+  if(req.params.group == 'test') {
+    res.status(200).send({
+      data: data.documentsTest,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+
+  } else if(req.params.group == 'devops'){
+    res.status(200).send({
+      data: data.documentsDevops,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  }  
+  else {
+    res.status(200).send({
+      data: data.documents,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  }
+
+
+});
+
+
+
+
 
 app.get('/lessonsInfo', (req, res) => {
   res.status(200).send({
@@ -210,6 +199,51 @@ app.get('/lessonsInfo', (req, res) => {
     success: 'true',
     message: 'waiting for status code 200',
   })
+});
+
+app.get('/courses/:group', (req, res) => {
+
+  if(req.params.group == 'test') {
+    res.status(200).send({
+      data: data.coursesAutomation,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+
+  } else if(req.params.group == 'devops'){
+    res.status(200).send({
+      data: data.coursesDevops,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  } else if(req.params.group == 'cloud'){
+    res.status(200).send({
+      data: data.coursesCloud,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  } else if(req.params.group == 'sap'){
+    res.status(200).send({
+      data: data.coursesSAP,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  } else if(req.params.group == 'data'){
+  res.status(200).send({
+    data: data.coursesData,
+    success: 'true',
+    message: 'waiting for status code 200',
+  })
+}  
+  else {
+    res.status(200).send({
+      data: data.courses,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  }
+
+
 });
 
 app.get('/courses', (req, res) => {

@@ -11,7 +11,7 @@ const data = {
       {
         "id": 0,
         "name": "courses",
-        "title": "Dersler",
+        "title": "Courses",
         "isFavorite": false
       },
       {
@@ -23,19 +23,19 @@ const data = {
       {
         "id": 2,
         "name": "wordy",
-        "title": "Wordy",
+        "title": "Workshop",
         "isFavorite": true
       },
       {
         "id": 3,
         "name": "reading",
-        "title": "Okuma",
+        "title": "Reading",
         "isFavorite": false
       },
       {
         "id": 4,
         "name": "sozluk",
-        "title": "Sözlük",
+        "title": "Dictionary",
         "isFavorite": true
       },
       {
@@ -47,19 +47,19 @@ const data = {
       {
         "id": 6,
         "name": "deneme",
-        "title": "Deneme",
+        "title": "Quiz",
         "isFavorite": false
       },
       {
         "id": 7,
         "name": "cluebank",
-        "title": "İpucu Havuzu",
+        "title": "cluebank",
         "isFavorite": false
       },
       {
         "id": 8,
         "name": "dokumanlar",
-        "title": "Dökümanlar",
+        "title": "Documents",
         "isFavorite": false
       }
     ]
@@ -70,7 +70,7 @@ const data = {
       "read": false,
       "app": "wordy",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
+      "text": "Quiz Group Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/courses/11"
     },
@@ -79,7 +79,7 @@ const data = {
       "read": false,
       "app": "resource",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
+      "text": "Quiz Group Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/documents/1"
     },
@@ -88,7 +88,7 @@ const data = {
       "read": true,
       "app": "lesson",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
+      "text": "Quiz Group Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/courses/23"
     },
@@ -97,7 +97,7 @@ const data = {
       "read": true,
       "app": "test",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
+      "text": "Quiz Group Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/test/12"
     },
@@ -106,7 +106,7 @@ const data = {
       "read": true,
       "app": "resource",
       "icon": "icon-pens",
-      "text": "Deneme Grubu Additional Course - 2 için yeni ödevlerin var!",
+      "text": "Quiz Group Additional Course - 2 için yeni ödevlerin var!",
       "time": "Birkaç saniye önce",
       "link": "/kaynak/55"
     }
@@ -324,65 +324,65 @@ const data = {
   ],
   "lessonsInfo": {
     "what": {
-      "title": "What is Ronwell Academy Course",
-      "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
+      "title": "Why Ronwell Academy ?",
+      "text": "The Ronwell Academy have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "Nasıl Çalışır?",
+      "title": "How to Get Help?",
       "text": "Help people get answers to their questions and get started with your app."
     },
     "video": {
-      "cover": "how-works-sozluk.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uQy1My56Gyk?rel=0&amp;showinfo=0"
+      "cover": "why-ronwell-academy.png",
+      "url": "hhttps://www.youtube.com/embed/2W_2a3ogc7A?rel=0&amp;showinfo=0"
     },
     "groups": [
       {
         "id": 0,
         "group": "all",
         "progress": 55,
-        "title": "Tümü"
+        "title": "All"
       },
       {
         "id": 1,
-        "group": "Certification Preparation",
+        "group": "test",
         "progress": 55,
-        "title": "Preliminary Group"
+        "title": "Test Automation"
       },
       {
         "id": 2,
-        "group": "ceviri",
+        "group": "cloud",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Cloud"
       },
       {
         "id": 3,
-        "group": "deneme",
+        "group": "sap",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "SAP Courses"
       },
       {
         "id": 4,
-        "group": "ceviri",
+        "group": "development",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Development"
       },
       {
         "id": 5,
-        "group": "ceviri",
+        "group": "devops",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Devops Courses"
       },
       {
         "id": 6,
-        "group": "deneme",
+        "group": "data",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Data Courses"
       },
       {
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Temel Translation Group"
       }
     ]
   },
@@ -653,6 +653,390 @@ const data = {
       "active": false
     }
   ],
+  "coursesAutomation": [
+    {
+      "id": 0,
+      "title": "Introduction to Ranorex",
+      "tags":  ["ranorex", "automation"],
+      "group": "automation",
+      "groupName": "Test Automation",
+      "date": "2022-05-11",
+      "hour": "22:00",
+      "progress": 100,
+      "visited": true,
+      "active": true
+    },
+    {
+      "id": 1,
+      "title": "Advanced Ranorex",
+      "tags":  ["ranorex", "automation"],
+      "group": "Certification Preparation",
+      "date": "2021-12-12",
+      "hour": "22:00",
+      "progress": 43,
+      "visited": true,
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Training for Ranorex Certification",
+      "tags":  ["ranorex", "automation"],
+      "group": "Certification Preparation",
+      "date": "2022-02-12",
+      "hour": "22:00",
+      "progress": 55,
+      "visited": false,
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "REST API testing with SOAP UI",
+      "tags":  ["soap", "automation", "soapui"],
+      "group": "Certification Preparation",
+      "date": "2018-11-25",
+      "hour": "22:00",
+      "progress": 24,
+      "visited": false,
+      "active": true
+    },
+    {
+      "id": 4,
+      "title": "SOAP Testing with SOAP UI",
+      "tags":  ["soap", "automation"],
+      "group": "deneme",
+      "date": "2022-10-24",
+      "hour": "22:00",
+      "progress": 100,
+      "visited": true,
+      "active": true
+    },
+    {
+      "id": 6,
+      "title": "Unit Testing with TESSY",
+      "tags":  ["unittest", "tessy"],
+      "group": "ceviri",
+      "date": "2021-12-12",
+      "hour": "22:00",
+      "progress": 55,
+      "visited": false,
+      "active": true
+    },
+    {
+      "id": 7,
+      "title": "Device Communication with Flask and REST API",
+      "tags":  ["test", "rest"],
+      "group": "deneme",
+      "date": "2021-12-12",
+      "hour": "22:00",
+      "progress": 55,
+      "visited": false,
+      "active": false
+    },
+    {
+      "id": 8,
+      "title": "SAP Testing With Ranorex",
+      "tags":  ["ranorex", "sap", "automation"],
+      "group": "Certification Preparation",
+      "date": "2021-12-12",
+      "hour": "22:00",
+      "progress": 15,
+      "visited": true,
+      "active": true
+    },
+    {
+      "id": 9,
+      "title": "Load Testing with JMeter",
+      "tags":  ["load test", "jemeter", "automation"],
+      "group": "Certification Preparation",
+      "date": "2021-12-12",
+      "hour": "22:00",
+      "progress": 45,
+      "visited": false,
+      "active": false
+    },
+    {
+      "id": 10,
+      "title": "Test Management With Zephyr",
+      "tags":  ["test", "zephry"],
+      "group": "deneme",
+      "date": "2022-12-12",
+      "hour": "02:00",
+      "progress": 55,
+      "visited": true,
+      "active": true
+    },
+    {
+      "id": 11,
+      "title": "Web Testing with Cpyress",
+      "tags":  ["web", "cypress", "automation"],
+      "group": "ceviri",
+      "date": "2021-12-12",
+      "hour": "03:00",
+      "progress": 75,
+      "visited": true,
+      "active": true
+    },
+    {
+      "id": 12,
+      "title": "Mobile Testing with Ranorex",
+      "tags":  ["ranorex", "mobile"],
+      "group": "ceviri",
+      "date": "2021-12-12",
+      "hour": "18:00",
+      "progress": 0,
+      "visited": false,
+      "active": false
+    },
+    {
+      "id": 13,
+      "title": "Working with SPY in Ranorex",
+      "tags":  ["ranorex", "automation"],
+      "group": "deneme",
+      "date": "2021-12-12",
+      "hour": "22:00",
+      "progress": 85,
+      "visited": true,
+      "active": true
+    },
+    {
+      "id": 14,
+      "title": "Cross Platform Testing with Ranorex",
+      "tags":  ["ranorex", "automation"],
+      "group": "Certification Preparation",
+      "date": "2021-12-12",
+      "hour": "20:00",
+      "progress": 25,
+      "visited": true,
+      "active": true
+    },
+    {
+      "id": 15,
+      "title": "Using Agents with Ranorex",
+      "tags":  ["ranorex", "automation"],
+      "group": "ceviri",
+      "date": "2021-12-12",
+      "hour": "22:00",
+      "progress": 70,
+      "visited": true,
+      "active": true
+    },
+  ],
+
+"coursesCloud": [
+  {
+    "id": 0,
+    "title": "Amazon AppSync Workshop",
+    "tags":  ["aws", "appsync", "cloud"],
+    "group": "ceviri",
+    "date": "2021-12-12",
+    "hour": "20:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 1,
+    "title": "AWS Cloud programming",
+    "tags":  ["aws", "cloud"],
+    "group": "deneme",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 55,
+    "visited": true,
+    "active": false
+  },
+  {
+    "id": 0,
+    "title": "Application Development with Python on AWS",
+    "tags":  ["aws", "appsync", "cloud"],
+    "group": "ceviri",
+    "date": "2021-12-12",
+    "hour": "20:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 1,
+    "title": "Application Development with Node.js on AWS",
+    "tags":  ["aws", "cloud"],
+    "group": "deneme",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 55,
+    "visited": true,
+    "active": false
+  },
+  {
+    "id": 0,
+    "title": "AWS Fundamentals",
+    "tags":  ["aws", "appsync", "cloud"],
+    "group": "ceviri",
+    "date": "2021-12-12",
+    "hour": "20:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 1,
+    "title": "AWS S3 Basics",
+    "tags":  ["aws", "cloud"],
+    "group": "deneme",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 55,
+    "visited": true,
+    "active": false
+  },  
+ {
+  "id": 0,
+  "title": "Azure Fundamentals",
+  "tags":  ["aws", "appsync", "cloud"],
+  "group": "ceviri",
+  "date": "2021-12-12",
+  "hour": "20:00",
+  "progress": 0,
+  "visited": false,
+  "active": false
+},
+{
+  "id": 1,
+  "title": "Scaling Cloud Computing Solutions",
+  "tags":  ["aws", "cloud"],
+  "group": "deneme",
+  "date": "2021-12-12",
+  "hour": "22:00",
+  "progress": 55,
+  "visited": true,
+  "active": false
+},
+{
+  "id": 1,
+  "title": "Cloud Product Management",
+  "tags":  ["aws", "cloud"],
+  "group": "deneme",
+  "date": "2021-12-12",
+  "hour": "22:00",
+  "progress": 55,
+  "visited": true,
+  "active": false
+},
+{
+"id": 0,
+"title": "Building Serverless Applications",
+"tags":  ["aws", "appsync", "cloud"],
+"group": "ceviri",
+"date": "2021-12-12",
+"hour": "20:00",
+"progress": 0,
+"visited": false,
+"active": false
+},
+{
+"id": 1,
+"title": "Designing Data Lakes on AWS",
+"tags":  ["aws", "cloud"],
+"group": "deneme",
+"date": "2021-12-12",
+"hour": "22:00",
+"progress": 55,
+"visited": true,
+"active": false
+}
+], 
+coursesData: [
+  {
+    "id": 0,
+    "title": "Fundementals of Data Science",
+    "tags":  ["data"],
+    "group": "ceviri",
+    "date": "2021-12-12",
+    "hour": "20:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 1,
+    "title": "Data Science in Practice",
+    "tags":  ["data", "programming"],
+    "group": "deneme",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 55,
+    "visited": true,
+    "active": false
+  },   
+],
+"coursesSAP": [
+  {
+    "id": 18,
+    "title": "Overview of SAP S / 4HANA",
+    "tags":  ["sap", "erp"],
+    "group": "deneme",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 19,
+    "title": "SAP Business Suite to SAP S/4HANA Delta",
+    "tags":  ["sap", "erp"],
+    "group": "ceviri",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 20,
+    "title": "Innovative Logistics Processes in SAP S/4HANA Enterprise Management",
+    "tags":  ["sap", "erp"],
+    "group": "Certification Preparation",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 21,
+    "title": "SAP S/4HANA Manufacturing – Features and Innovations",
+    "tags":  ["sap", "erp"],
+    "group": "Certification Preparation",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 22,
+    "title": "S4F01 Financial accounting in SAP S / 4HANA for SAP ERP FI experts",
+    "tags":  ["sap", "erp"],
+    "group": "ceviri",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  },
+  {
+    "id": 23,
+    "title": "S4F02 Internal accounting in SAP S / 4HANA for SAP ERP CO experts",
+    "tags":  ["sap", "erp"],
+    "group": "deneme",
+    "date": "2021-12-12",
+    "hour": "22:00",
+    "progress": 0,
+    "visited": false,
+    "active": false
+  }  
+],
   "lesson": [
     {
       "id": 0,
@@ -2990,23 +3374,23 @@ const data = {
   ],
   "testsInfo": {
     "what": {
-      "title": "RH+ Test Nedir",
+      "title": "What is Ranorex Test ?",
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "Nasıl Çalışır?",
+      "title": "How it Works?",
       "text": "Help people get answers to their questions and get started with your app."
     },
     "video": {
       "cover": "how-works-sozluk.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uQy1My56Gyk?rel=0&amp;showinfo=0"
+      "url": "https://www.youtube.com/watch?v=2W_2a3ogc7A"
     },
     "groups": [
       {
         "id": 0,
         "group": "all",
         "progress": 55,
-        "title": "Tümü"
+        "title": "All"
       },
       {
         "id": 1,
@@ -3018,37 +3402,37 @@ const data = {
         "id": 2,
         "group": "ceviri",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Advanced Translation Group"
       },
       {
         "id": 3,
         "group": "deneme",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Quiz Group"
       },
       {
         "id": 4,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Temel Translation Group"
       },
       {
         "id": 5,
         "group": "ceviri",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Advanced Translation Group"
       },
       {
         "id": 6,
         "group": "deneme",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Quiz Group"
       },
       {
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Temel Translation Group"
       }
     ],
     "types": [
@@ -3067,7 +3451,7 @@ const data = {
       "id": 1,
       "date": "2021-12-12",
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "type": "Preposition Question Type",
       "typeId" : 2,
       "title": "Translation Exam",
@@ -3118,7 +3502,7 @@ const data = {
       "id": 4,
       "date": "2022-05-12",
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "type": "Preposition Question Type",
       "typeId" : 2,
       "title": "Translation Exam 5",
@@ -3135,7 +3519,7 @@ const data = {
       "id": 5,
       "date": "2022-01-02",
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "type": "Single Selection Question Type",
       "typeId" : 1,
       "title": "Translation Exam",
@@ -3169,7 +3553,7 @@ const data = {
       "id": 7,
       "date": "2022-05-25",
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "type": "Single Selection Question Type",
       "typeId" : 1,
       "title": "Translation Exam 6",
@@ -3186,7 +3570,7 @@ const data = {
       "id": 8,
       "date": "2022-12-27",
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "type": "Single Selection Question Type",
       "typeId" : 1,
       "title": "Translation Exam 5",
@@ -3237,7 +3621,7 @@ const data = {
       "id": 11,
       "date": "2022-05-12",
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "type": "Preposition Question Type",
       "typeId" : 2,
       "title": "Translation Exam 5",
@@ -3254,7 +3638,7 @@ const data = {
       "id": 12,
       "date": "2022-01-02",
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "type": "Single Selection Question Type",
       "typeId" : 1,
       "title": "Translation Exam",
@@ -3288,7 +3672,7 @@ const data = {
       "id": 14,
       "date": "2022-05-25",
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "type": "Single Selection Question Type",
       "typeId" : 1,
       "title": "Translation Exam 6",
@@ -3305,7 +3689,7 @@ const data = {
       "id": 15,
       "date": "2022-12-27",
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "type": "Single Selection Question Type",
       "typeId" : 1,
       "title": "Translation Exam 5",
@@ -3861,65 +4245,71 @@ const data = {
   ],
   "examsInfo": {
     "what": {
-      "title": "Whats is Ranorex Certification",
-      "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
+      "title": "What is Ranorex Certification ?",
+      "text": "The Ranorex Cert Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
       "title": "How does it work?",
       "text": "Help people get answers to their questions and get started with your app."
     },
     "video": {
-      "cover": "how-works-sozluk.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uQy1My56Gyk?rel=0&amp;showinfo=0"
+      "cover": "why-ronwell-academy.png",
+      "url": "https://www.youtube.com/embed/2W_2a3ogc7A?rel=0&amp;showinfo=0"
     },
     "groups": [
       {
         "id": 0,
         "group": "all",
         "progress": 55,
-        "title": "Tümü"
+        "title": "All"
       },
       {
         "id": 1,
-        "group": "Certification Preparation",
+        "group": "test",
         "progress": 55,
-        "title": "Preliminary Group"
+        "title": "Test Automation"
       },
       {
         "id": 2,
-        "group": "ceviri",
+        "group": "devops",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "DevOps"
       },
       {
         "id": 3,
-        "group": "deneme",
-        "progress": 35,
-        "title": "Deneme Grubu"
-      },
+        "group": "agile",
+        "progress": 25,
+        "title": "Agile Exams"
+      },      
       {
         "id": 4,
-        "group": "ceviri",
-        "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "group": "development",
+        "progress": 35,
+        "title": "Development"
       },
       {
         "id": 5,
-        "group": "ceviri",
-        "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "group": "rpa",
+        "progress": 0,
+        "title": "Robotic Process Automation"
       },
       {
         "id": 6,
-        "group": "deneme",
-        "progress": 35,
-        "title": "Deneme Grubu"
+        "group": "ceviri",
+        "progress": 72,
+        "title": "Advanced Translation Group"
       },
       {
         "id": 7,
+        "group": "deneme",
+        "progress": 35,
+        "title": "Quiz Group"
+      },
+      {
+        "id": 8,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Temel Translation Group"
       }
     ],
     "types": [
@@ -4537,6 +4927,160 @@ const data = {
       "time": null
     }
   ],
+
+  
+  "examsAgile": [
+  {
+    "id": 1,
+    "title": "Jira Certification Exam",
+    "groupName": "Automation Group",
+    "group": "ceviri",
+    "date": "2022-11-26",
+    "type": "Preposition Question Type",
+    "typeId" : 2,
+    "count": 300,
+    "score": null,
+    "status": "none",
+    "progress": 68,
+    "results": null,
+    "time": null
+  },
+  {
+    "id": 2,
+    "title": "Scrum Master Certification",
+    "groupName": "Automation Group",
+    "group": "ceviri",
+    "date": "2022-11-26",
+    "type": "Preposition Question Type",
+    "typeId" : 2,
+    "count": 300,
+    "score": null,
+    "status": "continue",
+    "progress": 68,
+    "results": null,
+    "time": null
+  },
+],
+  "examsTest": [
+    {
+      "id": 0,
+      "title": "Ranorex Certification Exam 1",
+      "groupName": "Practice Grubu",
+      "group": "deneme",
+      "date": "2022-11-29",
+      "type": "Multi Selection Question Type",
+      "typeId" : 1,
+      "count": null,
+      "score": 220,
+      "status": "completed",
+      "progress": null,
+      "results": [
+        {
+          "current": 18,
+          "full": 55
+        },
+        {
+          "current": 5,
+          "full": 55
+        },
+        {
+          "current": 7,
+          "full": 55
+        }
+      ],
+      "time": "42dk"
+    },
+    {
+      "id": 1,
+      "title": "Ranorex Certification Exam 2",
+      "groupName": "Automation Group",
+      "group": "ceviri",
+      "date": "2022-11-26",
+      "type": "Preposition Question Type",
+      "typeId" : 2,
+      "count": 300,
+      "score": null,
+      "status": "none",
+      "progress": 68,
+      "results": null,
+      "time": null
+    },
+    {
+      "id": 2,
+      "title": "Selenium Certification Exam",
+      "groupName": "Automation Group",
+      "group": "ceviri",
+      "date": "2022-11-26",
+      "type": "Preposition Question Type",
+      "typeId" : 2,
+      "count": 300,
+      "score": null,
+      "status": "continue",
+      "progress": 68,
+      "results": null,
+      "time": null
+    },
+  ],
+  "examsDevops": [
+    {
+      "id": 0,
+      "title": "Jenkins Fundamentals Exam",
+      "groupName": "Practice Grubu",
+      "group": "deneme",
+      "date": "2022-11-29",
+      "type": "Multi Selection Question Type",
+      "typeId" : 1,
+      "count": null,
+      "score": 220,
+      "status": "completed",
+      "progress": null,
+      "results": [
+        {
+          "current": 18,
+          "full": 55
+        },
+        {
+          "current": 5,
+          "full": 55
+        },
+        {
+          "current": 7,
+          "full": 55
+        }
+      ],
+      "time": "42dk"
+    },
+    {
+      "id": 1,
+      "title": "Advanced Jenkins Certification Exam",
+      "groupName": "Automation Group",
+      "group": "ceviri",
+      "date": "2022-11-26",
+      "type": "Preposition Question Type",
+      "typeId" : 2,
+      "count": 300,
+      "score": null,
+      "status": "none",
+      "progress": 68,
+      "results": null,
+      "time": null
+    },
+    {
+      "id": 2,
+      "title": "Azure Devops Certification Exam",
+      "groupName": "Automation Group",
+      "group": "ceviri",
+      "date": "2022-11-26",
+      "type": "Preposition Question Type",
+      "typeId" : 2,
+      "count": 300,
+      "score": null,
+      "status": "continue",
+      "progress": 68,
+      "results": null,
+      "time": null
+    },
+  ],
   "readingInfo": {
     "what": {
       "title": "RH+ Okuma Nedir",
@@ -4555,7 +5099,7 @@ const data = {
         "id": 0,
         "group": "all",
         "progress": 55,
-        "title": "Tümü"
+        "title": "All"
       },
       {
         "id": 1,
@@ -4567,13 +5111,13 @@ const data = {
         "id": 2,
         "group": "ceviri",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Advanced Translation Group"
       },
       {
         "id": 3,
         "group": "deneme",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Quiz Group"
       },
       {
         "id": 4,
@@ -4585,19 +5129,19 @@ const data = {
         "id": 5,
         "group": "ceviri",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Advanced Translation Group"
       },
       {
         "id": 6,
         "group": "deneme",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Quiz Group"
       },
       {
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Temel Translation Group"
       }
     ]
   },
@@ -4614,7 +5158,7 @@ const data = {
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Galaxy of Universe 1",
       "time": 43,
       "read": false,
       "solved": false,
@@ -4628,14 +5172,14 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "date": "2018-08-24",
       "tags": [
         "galaxy",
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Galaxy of Universe 1",
       "time": 43,
       "read": false,
       "solved": false,
@@ -4649,14 +5193,14 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2018-11-18",
       "tags": [
         "galaxy",
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Galaxy of Universe 2",
       "time": 43,
       "read": false,
       "solved": false,
@@ -4691,7 +5235,7 @@ const data = {
       "img": "reading-3",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2018-03-28",
       "tags": [
         "galaxy",
@@ -4754,7 +5298,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "date": "2018-05-18",
       "tags": [
         "galaxy",
@@ -4775,7 +5319,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2017-12-13",
       "tags": [
         "galaxy",
@@ -4817,7 +5361,7 @@ const data = {
       "img": "reading-3",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2018-05-18",
       "tags": [
         "galaxy",
@@ -4859,7 +5403,7 @@ const data = {
       "img": "reading-3",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2022-08-30",
       "tags": [
         "galaxy",
@@ -4922,7 +5466,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "date": "2018-02-19",
       "tags": [
         "galaxy",
@@ -4943,7 +5487,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2021-12-07",
       "tags": [
         "galaxy",
@@ -6008,17 +6552,17 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "date": "2018-08-24",
       "tags": [
         "galaxy",
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Galaxy of Universe2",
       "texts": [
         {
-          "english": "Culture is a meaning for people's 'way of life'.",
+          "english": "Culture1 is a meaning for people's 'way of life'.",
           "turkish": "Kültür, insanların yaşam biçimlerinin bir anlamıdır."
         },
         {
@@ -7032,7 +7576,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2018-11-18",
       "tags": [
         "galaxy",
@@ -7042,7 +7586,7 @@ const data = {
       "title": "Galaxy of Universe",
       "texts": [
         {
-          "english": "Culture is a meaning for people's 'way of life'.",
+          "english": "Culturee is a meaning for people's 'way of life'.",
           "turkish": "Kültür, insanların yaşam biçimlerinin bir anlamıdır."
         },
         {
@@ -8063,7 +8607,7 @@ const data = {
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Galaxy of Universe 4",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -9080,14 +9624,14 @@ const data = {
       "img": "reading-3",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2018-03-28",
       "tags": [
         "galaxy",
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Galaxy of Universe 4",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -10111,7 +10655,7 @@ const data = {
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Galaxy of Universe 5",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -11135,7 +11679,7 @@ const data = {
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Galaxy of Universe 6",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -12152,7 +12696,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "date": "2018-05-18",
       "tags": [
         "galaxy",
@@ -13176,7 +13720,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2017-12-13",
       "tags": [
         "galaxy",
@@ -15224,7 +15768,7 @@ const data = {
       "img": "reading-3",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2018-05-18",
       "tags": [
         "galaxy",
@@ -17272,7 +17816,7 @@ const data = {
       "img": "reading-3",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2022-08-30",
       "tags": [
         "galaxy",
@@ -20344,7 +20888,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "ceviri",
-      "groupName": "Çeviri Grubu",
+      "groupName": "Translation Group",
       "date": "2018-02-19",
       "tags": [
         "galaxy",
@@ -21368,7 +21912,7 @@ const data = {
       "img": "reading-1",
       "groupId": 12,
       "group": "deneme",
-      "groupName": "Deneme Grubu",
+      "groupName": "Quiz Group",
       "date": "2021-12-07",
       "tags": [
         "galaxy",
@@ -23414,69 +23958,149 @@ const data = {
   ],
   "documentsInfo": {
     "what": {
-      "title": "RH+ Dökümanlar Nedir",
+      "title": "Why Ronwell Academy ?",
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "Nasıl Çalışır?",
+      "title": "How it Works?",
       "text": "Help people get answers to their questions and get started with your app."
     },
     "video": {
-      "cover": "how-works-sozluk.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uQy1My56Gyk?rel=0&amp;showinfo=0"
+      "cover": "why-ronwell-academy.png",
+      "url": "https://www.youtube.com/embed/2W_2a3ogc7A?rel=0&amp;showinfo=0"
     },
     "groups": [
       {
         "id": 0,
         "group": "all",
         "progress": 55,
-        "title": "Tümü"
+        "title": "All"
       },
       {
         "id": 1,
-        "group": "Certification Preparation",
+        "group": "test",
         "progress": 55,
-        "title": "Preliminary Group"
+        "title": "Test Group"
       },
       {
         "id": 2,
-        "group": "ceviri",
+        "group": "development",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Development Group"
       },
       {
         "id": 3,
-        "group": "deneme",
+        "group": "devops",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Devops Group"
       },
       {
         "id": 4,
-        "group": "ceviri",
+        "group": "rpa",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "RPA Group"
       },
       {
         "id": 5,
         "group": "ceviri",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Advanced Translation Group"
       },
       {
         "id": 6,
         "group": "deneme",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Quiz Group"
       },
       {
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Temel Translation Group"
       }
     ]
   },
   "documents": [
+    {
+      "id": 0,
+      "title": "Development with C#",
+      "text": "Ranorex Certification Training",
+      "visited": true,
+      "url": "",
+      "groups": [
+        {
+          "id": 1,
+          "title": "Automation Group",
+          "name": "Certification Preparation"
+        },
+        {
+          "id": 2,
+          "title": "Quiz Group",
+          "name": "deneme"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "title": "Development with Javascript",
+      "text": "Ranorex Certification Training",
+      "visited": true,
+      "url": "",
+      "groups": [
+        {
+          "id": 1,
+          "title": "Automation Group",
+          "name": "Certification Preparation"
+        },
+        {
+          "id": 2,
+          "title": "Quiz Group",
+          "name": "deneme"
+        }
+      ]
+    }
+  ],
+  "documentsDevops": [
+    {
+      "id": 0,
+      "title": "Jenkins Installation",
+      "text": "Ranorex Certification Training",
+      "visited": true,
+      "url": "",
+      "groups": [
+        {
+          "id": 1,
+          "title": "Devops Group",
+          "name": "Certification Preparation"
+        },
+        {
+          "id": 2,
+          "title": "Development Group",
+          "name": "deneme"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "title": "Azure Devops",
+      "text": "Ranorex Certification Training",
+      "visited": true,
+      "url": "",
+      "groups": [
+        {
+          "id": 1,
+          "title": "Devops Group",
+          "name": "Certification Preparation"
+        },
+        {
+          "id": 2,
+          "title": "Development Group",
+          "name": "deneme"
+        }
+      ]
+    }   
+  ],
+  "documentsTest": [
     {
       "id": 0,
       "title": "Ranorex Certification Training0",
@@ -23491,7 +24115,7 @@ const data = {
         },
         {
           "id": 2,
-          "title": "Deneme Grubu",
+          "title": "Quiz Group",
           "name": "deneme"
         }
       ]
@@ -23510,7 +24134,7 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Çeviri Grubu",
+          "title": "Translation Group",
           "name": "ceviri"
         }
       ]
@@ -23529,12 +24153,12 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Çeviri Grubu",
+          "title": "Translation Group",
           "name": "ceviri"
         },
         {
           "id": 2,
-          "title": "Deneme Grubu",
+          "title": "Quiz Group",
           "name": "deneme"
         }
       ]
@@ -23548,7 +24172,7 @@ const data = {
       "groups": [
         {
           "id": 0,
-          "title": "Deneme Grubu",
+          "title": "Quiz Group",
           "name": "deneme"
         }
       ]
@@ -23567,11 +24191,15 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Deneme Grubu",
+          "title": "Quiz Group",
           "name": "deneme"
         }
       ]
     },
+
+  ],
+  documentsDevelopment:
+  [
     {
       "id": 5,
       "title": "CORS Training",
@@ -23581,12 +24209,12 @@ const data = {
       "groups": [
         {
           "id": 1,
-          "title": "Çeviri Grubu",
+          "title": "Translation Group",
           "name": "ceviri"
         },
         {
           "id": 2,
-          "title": "Deneme Grubu",
+          "title": "Quiz Group",
           "name": "deneme"
         }
       ]
@@ -23605,12 +24233,12 @@ const data = {
         },
         {
           "id": 1,
-          "title": "Çeviri Grubu",
+          "title": "Translation Group",
           "name": "ceviri"
         },
         {
           "id": 2,
-          "title": "Deneme Grubu",
+          "title": "Quiz Group",
           "name": "deneme"
         }
       ]
@@ -23624,12 +24252,12 @@ const data = {
       "groups": [
         {
           "id": 1,
-          "title": "Çeviri Grubu",
+          "title": "Translation Group",
           "name": "ceviri"
         },
         {
           "id": 2,
-          "title": "Deneme Grubu",
+          "title": "Quiz Group",
           "name": "deneme"
         }
       ]
@@ -23695,7 +24323,7 @@ const data = {
         "id": 0,
         "group": "all",
         "progress": 55,
-        "title": "Tümü"
+        "title": "All"
       },
       {
         "id": 1,
@@ -23707,37 +24335,37 @@ const data = {
         "id": 2,
         "group": "ceviri",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Advanced Translation Group"
       },
       {
         "id": 3,
         "group": "deneme",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Quiz Group"
       },
       {
         "id": 4,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Temel Translation Group"
       },
       {
         "id": 5,
         "group": "ceviri",
         "progress": 72,
-        "title": "İleri Çeviri Grubu"
+        "title": "Advanced Translation Group"
       },
       {
         "id": 6,
         "group": "deneme",
         "progress": 35,
-        "title": "Deneme Grubu"
+        "title": "Quiz Group"
       },
       {
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Çeviri Grubu"
+        "title": "Temel Translation Group"
       }
     ]
   },
@@ -23773,7 +24401,7 @@ const data = {
         {
           "id": 1,
           "name": "ceviri",
-          "title": "Çeviri Grubu"
+          "title": "Translation Group"
         }
       ]
     },
@@ -23788,7 +24416,7 @@ const data = {
         {
           "id": 0,
           "name": "deneme",
-          "title": "Deneme Grubu"
+          "title": "Quiz Group"
         }
       ]
     },
@@ -23808,12 +24436,12 @@ const data = {
         {
           "id": 1,
           "name": "ceviri",
-          "title": "Çeviri Grubu"
+          "title": "Translation Group"
         },
         {
           "id": 2,
           "name": "deneme",
-          "title": "Deneme Grubu"
+          "title": "Quiz Group"
         }
       ]
     },
@@ -23897,7 +24525,7 @@ const data = {
       "cover": "digibook-1.jpg",
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
-      "progress": 55,
+      "progress": 35,
       "date": "2022-05-12",
       "groups": [
         {
@@ -23912,7 +24540,7 @@ const data = {
       "cover": "digibook-1.jpg",
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
-      "progress": 55,
+      "progress": 45,
       "date": "2022-05-12",
       "groups": [
         {
@@ -23942,7 +24570,7 @@ const data = {
       "cover": "digibook-1.jpg",
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
-      "progress": 55,
+      "progress": 65,
       "date": "2022-05-12",
       "groups": [
         {
@@ -23957,7 +24585,7 @@ const data = {
       "cover": "digibook-1.jpg",
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
-      "progress": 55,
+      "progress": 75,
       "date": "2022-05-12",
       "groups": [
         {
@@ -23972,7 +24600,8 @@ const data = {
       "cover": "digibook-1.jpg",
       "title": "Soru Çözüm Digibook",
       "desc": "Soru çözüm grubu soru tipleri kitabı",
-      "progress": 55,
+      "progress": 4
+      +5,
       "date": "2022-05-12",
       "groups": [
         {
@@ -25537,25 +26166,25 @@ const data = {
         },
         {
           "id": 2,
-          "name": "İleri Çeviri Grubu",
+          "name": "Advanced Translation Group",
           "active": false,
           "activeWeek": 9
         },
         {
           "id": 3,
-          "name": "Deneme Grubu",
+          "name": "Quiz Group",
           "active": false,
           "activeWeek": 10
         },
         {
           "id": 4,
-          "name": "Sözlük Grubu",
+          "name": "Dictionary Group",
           "active": false,
           "activeWeek": 12
         },
         {
           "id": 5,
-          "name": "Okuma Grubu",
+          "name": "Reading Group",
           "active": false,
           "activeWeek": 14
         }
@@ -25586,7 +26215,7 @@ const data = {
       "groups": [
         {
           "id": 12,
-          "name": "Çeviri Grubu",
+          "name": "Translation Group",
           "group": "ceviri"
         },
         {
@@ -25596,17 +26225,17 @@ const data = {
         },
         {
           "id": 14,
-          "name": "Deneme Grubu",
+          "name": "Quiz Group",
           "group": "deneme"
         },
         {
           "id": 15,
-          "name": "Çeviri Grubu",
+          "name": "Translation Group",
           "group": "ceviri"
         },
         {
           "id": 16,
-          "name": "Deneme Grubu",
+          "name": "Quiz Group",
           "group": "deneme"
         },
         {
@@ -25616,7 +26245,7 @@ const data = {
         },
         {
           "id": 18,
-          "name": "Çeviri Grubu",
+          "name": "Translation Group",
           "group": "ceviri"
         }
       ]
@@ -25625,22 +26254,22 @@ const data = {
       "app": "document",
       "groups": [
         {
-          "name": "Preliminary Group",
+          "name": "Development Group",
           "id": 1,
           "icon": ""
         },
         {
-          "name": "Dokuman Grubu 1",
+          "name": "Automation Group",
           "id": 2,
           "icon": ""
         },
         {
-          "name": "Çeviri Grubu 2",
+          "name": "Devops Group",
           "id": 3,
           "icon": ""
         },
         {
-          "name": "Çeviri Grubu 3",
+          "name": "RPA Group",
           "id": 4,
           "icon": ""
         }
