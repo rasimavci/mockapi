@@ -1,9 +1,9 @@
 const data = {
   "user": {
     "id": 1,
-    "firstname": "Rasim",
-    "lastname": "Avcı",
-    "fullname": "Rasim Avcı",
+    "firstname": "John",
+    "lastname": "Doe",
+    "fullname": "John Doe",
     "avatar": "https://.../profile.png",
     "badge": "High Performance",
     "progress": 55,
@@ -329,7 +329,7 @@ const data = {
     },
     "howWorks": {
       "title": "How to Get Help?",
-      "text": "Help people get answers to their questions and get started with your app."
+      "text": "We help people get answers to their questions and get started with their daily tasks. You can get information and support at any time by contacting our IT professioneals for your questions and problems in your mind."
     },
     "video": {
       "cover": "why-ronwell-academy.png",
@@ -382,7 +382,7 @@ const data = {
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Translation Group"
+        "title": "Basic Translation Group"
       }
     ]
   },
@@ -403,7 +403,7 @@ const data = {
       "id": 1,
       "title": "Advanced Ranorex",
       "tags":  ["ranorex", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 43,
@@ -414,7 +414,7 @@ const data = {
       "id": 2,
       "title": "Training for Ranorex Certification",
       "tags":  ["ranorex", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
       "date": "2022-02-12",
       "hour": "22:00",
       "progress": 55,
@@ -425,7 +425,7 @@ const data = {
       "id": 3,
       "title": "REST API testing with SOAP UI",
       "tags":  ["soap", "automation", "soapui"],
-      "group": "Certification Preparation",
+      "group": "automation",
       "date": "2018-11-25",
       "hour": "22:00",
       "progress": 24,
@@ -436,7 +436,7 @@ const data = {
       "id": 4,
       "title": "SOAP Testing with SOAP UI",
       "tags":  ["soap", "automation"],
-      "group": "deneme",
+      "group": "automation",
       "date": "2022-10-24",
       "hour": "22:00",
       "progress": 100,
@@ -447,7 +447,7 @@ const data = {
       "id": 5,
       "title": "AWS Cloud programming",
       "tags":  ["aws", "cloud"],
-      "group": "deneme",
+      "group": "clous",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -458,7 +458,7 @@ const data = {
       "id": 6,
       "title": "Unit Testing with TESSY",
       "tags":  ["unittest", "tessy"],
-      "group": "ceviri",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -469,7 +469,7 @@ const data = {
       "id": 7,
       "title": "Device Communication with Flask and REST API",
       "tags":  ["test", "rest"],
-      "group": "deneme",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -480,7 +480,7 @@ const data = {
       "id": 8,
       "title": "SAP Testing With Ranorex",
       "tags":  ["ranorex", "sap", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 15,
@@ -491,7 +491,7 @@ const data = {
       "id": 9,
       "title": "Load Testing with JMeter",
       "tags":  ["load test", "jemeter", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 45,
@@ -502,7 +502,7 @@ const data = {
       "id": 10,
       "title": "Test Management With Zephyr",
       "tags":  ["test", "zephry"],
-      "group": "deneme",
+      "group": "automation",
       "date": "2022-12-12",
       "hour": "02:00",
       "progress": 55,
@@ -513,7 +513,7 @@ const data = {
       "id": 11,
       "title": "Web Testing with Cpyress",
       "tags":  ["web", "cypress", "automation"],
-      "group": "ceviri",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "03:00",
       "progress": 75,
@@ -524,7 +524,7 @@ const data = {
       "id": 12,
       "title": "Mobile Testing with Ranorex",
       "tags":  ["ranorex", "mobile"],
-      "group": "ceviri",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "18:00",
       "progress": 0,
@@ -535,7 +535,7 @@ const data = {
       "id": 13,
       "title": "Working with SPY in Ranorex",
       "tags":  ["ranorex", "automation"],
-      "group": "deneme",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 85,
@@ -546,7 +546,7 @@ const data = {
       "id": 14,
       "title": "Cross Platform Testing with Ranorex",
       "tags":  ["ranorex", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "20:00",
       "progress": 25,
@@ -557,7 +557,7 @@ const data = {
       "id": 15,
       "title": "Using Agents with Ranorex",
       "tags":  ["ranorex", "automation"],
-      "group": "ceviri",
+      "group": "automation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 70,
@@ -568,7 +568,7 @@ const data = {
       "id": 16,
       "title": "Amazon AppSync Workshop",
       "tags":  ["aws", "appsync", "cloud"],
-      "group": "ceviri",
+      "group": "cloud",
       "date": "2021-12-12",
       "hour": "20:00",
       "progress": 0,
@@ -579,7 +579,7 @@ const data = {
       "id": 17,
       "title": "Test Case Writing with Zephyr",
       "tags":  ["test", "zephry"],
-      "group": "deneme",
+      "group": "sap",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 0,
@@ -590,7 +590,7 @@ const data = {
       "id": 18,
       "title": "Overview of SAP S / 4HANA",
       "tags":  ["sap", "erp"],
-      "group": "deneme",
+      "group": "sap",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 0,
@@ -601,7 +601,7 @@ const data = {
       "id": 19,
       "title": "SAP Business Suite to SAP S/4HANA Delta",
       "tags":  ["sap", "erp"],
-      "group": "ceviri",
+      "group": "sap",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 0,
@@ -623,7 +623,7 @@ const data = {
       "id": 21,
       "title": "SAP S/4HANA Manufacturing – Features and Innovations",
       "tags":  ["sap", "erp"],
-      "group": "Certification Preparation",
+      "group": "sap",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 0,
@@ -634,7 +634,7 @@ const data = {
       "id": 22,
       "title": "S4F01 Financial accounting in SAP S / 4HANA for SAP ERP FI experts",
       "tags":  ["sap", "erp"],
-      "group": "ceviri",
+      "group": "sap",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 0,
@@ -645,7 +645,7 @@ const data = {
       "id": 23,
       "title": "S4F02 Internal accounting in SAP S / 4HANA for SAP ERP CO experts",
       "tags":  ["sap", "erp"],
-      "group": "deneme",
+      "group": "sap",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 0,
@@ -670,7 +670,8 @@ const data = {
       "id": 1,
       "title": "Advanced Ranorex",
       "tags":  ["ranorex", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 43,
@@ -681,7 +682,8 @@ const data = {
       "id": 2,
       "title": "Training for Ranorex Certification",
       "tags":  ["ranorex", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2022-02-12",
       "hour": "22:00",
       "progress": 55,
@@ -692,7 +694,8 @@ const data = {
       "id": 3,
       "title": "REST API testing with SOAP UI",
       "tags":  ["soap", "automation", "soapui"],
-      "group": "Certification Preparation",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2018-11-25",
       "hour": "22:00",
       "progress": 24,
@@ -703,7 +706,8 @@ const data = {
       "id": 4,
       "title": "SOAP Testing with SOAP UI",
       "tags":  ["soap", "automation"],
-      "group": "deneme",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2022-10-24",
       "hour": "22:00",
       "progress": 100,
@@ -714,7 +718,8 @@ const data = {
       "id": 6,
       "title": "Unit Testing with TESSY",
       "tags":  ["unittest", "tessy"],
-      "group": "ceviri",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -725,7 +730,8 @@ const data = {
       "id": 7,
       "title": "Device Communication with Flask and REST API",
       "tags":  ["test", "rest"],
-      "group": "deneme",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -736,7 +742,8 @@ const data = {
       "id": 8,
       "title": "SAP Testing With Ranorex",
       "tags":  ["ranorex", "sap", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 15,
@@ -747,7 +754,8 @@ const data = {
       "id": 9,
       "title": "Load Testing with JMeter",
       "tags":  ["load test", "jemeter", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 45,
@@ -758,7 +766,8 @@ const data = {
       "id": 10,
       "title": "Test Management With Zephyr",
       "tags":  ["test", "zephry"],
-      "group": "deneme",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2022-12-12",
       "hour": "02:00",
       "progress": 55,
@@ -769,7 +778,8 @@ const data = {
       "id": 11,
       "title": "Web Testing with Cpyress",
       "tags":  ["web", "cypress", "automation"],
-      "group": "ceviri",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "03:00",
       "progress": 75,
@@ -780,7 +790,8 @@ const data = {
       "id": 12,
       "title": "Mobile Testing with Ranorex",
       "tags":  ["ranorex", "mobile"],
-      "group": "ceviri",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "18:00",
       "progress": 0,
@@ -791,7 +802,8 @@ const data = {
       "id": 13,
       "title": "Working with SPY in Ranorex",
       "tags":  ["ranorex", "automation"],
-      "group": "deneme",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 85,
@@ -802,7 +814,8 @@ const data = {
       "id": 14,
       "title": "Cross Platform Testing with Ranorex",
       "tags":  ["ranorex", "automation"],
-      "group": "Certification Preparation",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "20:00",
       "progress": 25,
@@ -813,7 +826,8 @@ const data = {
       "id": 15,
       "title": "Using Agents with Ranorex",
       "tags":  ["ranorex", "automation"],
-      "group": "ceviri",
+      "group": "automation",
+      "groupName": "Certification Preparation",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 70,
@@ -827,7 +841,8 @@ const data = {
     "id": 0,
     "title": "Amazon AppSync Workshop",
     "tags":  ["aws", "appsync", "cloud"],
-    "group": "ceviri",
+    "group": "cloud",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "20:00",
     "progress": 0,
@@ -838,7 +853,8 @@ const data = {
     "id": 1,
     "title": "AWS Cloud programming",
     "tags":  ["aws", "cloud"],
-    "group": "deneme",
+    "group": "denecloudme",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 55,
@@ -849,7 +865,8 @@ const data = {
     "id": 0,
     "title": "Application Development with Python on AWS",
     "tags":  ["aws", "appsync", "cloud"],
-    "group": "ceviri",
+    "group": "cloud",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "20:00",
     "progress": 0,
@@ -860,7 +877,8 @@ const data = {
     "id": 1,
     "title": "Application Development with Node.js on AWS",
     "tags":  ["aws", "cloud"],
-    "group": "deneme",
+    "group": "cloud",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 55,
@@ -871,7 +889,8 @@ const data = {
     "id": 0,
     "title": "AWS Fundamentals",
     "tags":  ["aws", "appsync", "cloud"],
-    "group": "ceviri",
+    "group": "cloud",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "20:00",
     "progress": 0,
@@ -882,7 +901,8 @@ const data = {
     "id": 1,
     "title": "AWS S3 Basics",
     "tags":  ["aws", "cloud"],
-    "group": "deneme",
+    "group": "cloud",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 55,
@@ -893,7 +913,8 @@ const data = {
   "id": 0,
   "title": "Azure Fundamentals",
   "tags":  ["aws", "appsync", "cloud"],
-  "group": "ceviri",
+  "group": "cloud",
+  "groupName": "Certification Preparation",
   "date": "2021-12-12",
   "hour": "20:00",
   "progress": 0,
@@ -904,7 +925,8 @@ const data = {
   "id": 1,
   "title": "Scaling Cloud Computing Solutions",
   "tags":  ["aws", "cloud"],
-  "group": "deneme",
+  "group": "cloud",
+  "groupName": "Certification Preparation",
   "date": "2021-12-12",
   "hour": "22:00",
   "progress": 55,
@@ -915,7 +937,8 @@ const data = {
   "id": 1,
   "title": "Cloud Product Management",
   "tags":  ["aws", "cloud"],
-  "group": "deneme",
+  "group": "cloud",
+  "groupName": "Certification Preparation",
   "date": "2021-12-12",
   "hour": "22:00",
   "progress": 55,
@@ -926,7 +949,8 @@ const data = {
 "id": 0,
 "title": "Building Serverless Applications",
 "tags":  ["aws", "appsync", "cloud"],
-"group": "ceviri",
+"group": "cloud",
+"groupName": "Certification Preparation",
 "date": "2021-12-12",
 "hour": "20:00",
 "progress": 0,
@@ -937,7 +961,8 @@ const data = {
 "id": 1,
 "title": "Designing Data Lakes on AWS",
 "tags":  ["aws", "cloud"],
-"group": "deneme",
+"group": "cloud",
+
 "date": "2021-12-12",
 "hour": "22:00",
 "progress": 55,
@@ -950,7 +975,8 @@ coursesData: [
     "id": 0,
     "title": "Fundementals of Data Science",
     "tags":  ["data"],
-    "group": "ceviri",
+    "group": "data",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "20:00",
     "progress": 0,
@@ -961,7 +987,8 @@ coursesData: [
     "id": 1,
     "title": "Data Science in Practice",
     "tags":  ["data", "programming"],
-    "group": "deneme",
+    "group": "data",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 55,
@@ -974,18 +1001,20 @@ coursesData: [
     "id": 18,
     "title": "Overview of SAP S / 4HANA",
     "tags":  ["sap", "erp"],
-    "group": "deneme",
+    "group": "sap",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 0,
-    "visited": false,
+    "visited": true,
     "active": false
   },
   {
     "id": 19,
     "title": "SAP Business Suite to SAP S/4HANA Delta",
     "tags":  ["sap", "erp"],
-    "group": "ceviri",
+    "group": "sap",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 0,
@@ -996,7 +1025,8 @@ coursesData: [
     "id": 20,
     "title": "Innovative Logistics Processes in SAP S/4HANA Enterprise Management",
     "tags":  ["sap", "erp"],
-    "group": "Certification Preparation",
+    "group": "sap",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 0,
@@ -1007,7 +1037,8 @@ coursesData: [
     "id": 21,
     "title": "SAP S/4HANA Manufacturing – Features and Innovations",
     "tags":  ["sap", "erp"],
-    "group": "Certification Preparation",
+    "group": "sap",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 0,
@@ -1018,7 +1049,8 @@ coursesData: [
     "id": 22,
     "title": "S4F01 Financial accounting in SAP S / 4HANA for SAP ERP FI experts",
     "tags":  ["sap", "erp"],
-    "group": "ceviri",
+    "group": "cesapviri",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 0,
@@ -1029,7 +1061,8 @@ coursesData: [
     "id": 23,
     "title": "S4F02 Internal accounting in SAP S / 4HANA for SAP ERP CO experts",
     "tags":  ["sap", "erp"],
-    "group": "deneme",
+    "group": "sap",
+    "groupName": "Certification Preparation",
     "date": "2021-12-12",
     "hour": "22:00",
     "progress": 0,
@@ -1042,7 +1075,7 @@ coursesData: [
       "id": 0,
       "name": "Introduciton to Ranorex",
       "tags": ["ranorex", "automation"],
-      "group": "ceviri",
+      "group": "automation",
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
@@ -1053,7 +1086,7 @@ coursesData: [
       "homeworks": [
         {
           "id": 0,
-          "title": "Hello World",
+          "title": "Task 1 Create With Variables",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -1064,14 +1097,14 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Hello World",
+          "title": "Task 2 Create Test with Data Binding",
           "app": "digibook",
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1080,9 +1113,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1091,9 +1124,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1102,36 +1135,36 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     },
@@ -1144,7 +1177,7 @@ coursesData: [
       "hour": "22:00",
       "time": 140,
       "teacher": "Rasim Avcı",
-      "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
+      "description": "<h3><strong>Title 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 26,
       "homeworks": [
@@ -1166,9 +1199,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1177,9 +1210,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1188,9 +1221,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1199,36 +1232,36 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     },
@@ -1241,7 +1274,7 @@ coursesData: [
       "hour": "22:00",
       "time": 140,
       "teacher": "RASİM AVCI",
-      "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
+      "description": "<h3><strong>Title 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 73,
       "homeworks": [
@@ -1263,9 +1296,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1274,9 +1307,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1285,9 +1318,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1296,36 +1329,36 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     },
@@ -1337,8 +1370,8 @@ coursesData: [
       "date": "2022-05-11",
       "hour": "22:00",
       "time": 140,
-      "teacher": "RASİM AVCI",
-      "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
+      "teacher": "Rasim Avcı",
+      "description": "<h3><strong>Title 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
@@ -1360,9 +1393,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1371,9 +1404,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1382,9 +1415,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1393,36 +1426,36 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     },
@@ -1435,7 +1468,7 @@ coursesData: [
       "hour": "22:00",
       "time": 140,
       "teacher": "RASİM AVCI",
-      "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
+      "description": "<h3><strong>Title 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
@@ -1457,9 +1490,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1468,9 +1501,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1479,9 +1512,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1490,36 +1523,36 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     },
@@ -1532,7 +1565,7 @@ coursesData: [
       "hour": "22:00",
       "time": 140,
       "teacher": "RASİM AVCI",
-      "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
+      "description": "<h3><strong>Title 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
@@ -1554,9 +1587,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1565,9 +1598,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1576,9 +1609,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1587,36 +1620,36 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     },
@@ -1629,7 +1662,7 @@ coursesData: [
       "hour": "22:00",
       "time": 140,
       "teacher": "RASİM AVCI",
-      "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
+      "description": "<h3><strong>Title 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
@@ -1651,9 +1684,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1662,9 +1695,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1673,9 +1706,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1684,36 +1717,36 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     },
@@ -1726,7 +1759,7 @@ coursesData: [
       "hour": "22:00",
       "time": 140,
       "teacher": "RASİM AVCI",
-      "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
+      "description": "<h3><strong>Title 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
@@ -1748,9 +1781,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1759,9 +1792,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1770,9 +1803,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1781,36 +1814,36 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     },
@@ -1823,7 +1856,7 @@ coursesData: [
       "hour": "22:00",
       "time": 140,
       "teacher": "RASİM AVCI",
-      "description": "<h3><strong>Başlık 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
+      "description": "<h3><strong>Title 1</strong></h3>\n      <p>\n        Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n        consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n        optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n        eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n      </p>\n      <ul>\n        <li>Lorem ipsum dolor sit.</li>\n        <li>Lorem ipsum.</li>\n        <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n        <li>Lorem ipsum dolor sit.</li>\n      </ul>",
       "cover": "lesson-video-cover.jpg",
       "homeworksProgress": 78,
       "homeworks": [
@@ -1845,9 +1878,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -1856,9 +1889,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -1867,9 +1900,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -1878,299 +1911,299 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "units": [
         {
           "id": 0,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 1,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 2,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 3,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
-          "name": "İleri Düzey Gramer Konu Anlatımı ve Basit soru alıştırmaları",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "name": "Advanced Ranorex Lecture and Simple Question Exercises",
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ]
     }
   ],
   "cluebanksInfo": {
     "what": {
-      "title": "RH+ İpucu Havuzu Nedir",
+      "title": "Why Ronwell Academy ?",
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "Nasıl Çalışır?",
-      "text": "Help people get answers to their questions and get started with your app."
+      "title": "How to Get Help?",
+      "text": "We help people get answers to their questions and get started with their daily tasks. You can get information and support at any time by contacting our IT professioneals for your questions and problems in your mind."
     },
     "video": {
-      "cover": "how-works-sozluk.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uQy1My56Gyk?rel=0&amp;showinfo=0"
-    }
+      "cover": "why-ronwell-academy.png",
+      "url": "https://www.youtube.com/embed/2W_2a3ogc7A?rel=0&amp;showinfo=0"
+    },
   },
   "cluebankQuestions": [
     {
       "id": 0,
-      "title": "Başlık İpuçları Sorular",
+      "title": "Cluebank Questions",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
-          "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "How to solve Spy questions ?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is FIDO?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is FIDO ?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 1,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 2,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 3,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
@@ -2179,248 +2212,248 @@ coursesData: [
   "cluebankGrammars": [
     {
       "id": 0,
-      "title": "Başlık İpuçları Gramerler",
+      "title": "Clue Title Gramerler",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 1,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 2,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 3,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
@@ -2429,248 +2462,248 @@ coursesData: [
   "cluebankStrategies": [
     {
       "id": 0,
-      "title": "Başlık İpuçları Stratejiler",
+      "title": "Clue Title Stratejiler",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 1,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 2,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 3,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
@@ -2679,248 +2712,248 @@ coursesData: [
   "cluebankWords": [
     {
       "id": 0,
-      "title": "Başlık İpuçları Kelimeler",
+      "title": "Clue Title Kelimeler",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 1,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 2,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
     },
     {
       "id": 3,
-      "title": "Başlık İpuçları",
+      "title": "Clue Title",
       "clues": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 5,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 6,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 7,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 8,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         }
       ]
@@ -2929,444 +2962,444 @@ coursesData: [
   "cluebank": [
     {
       "id": 1,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 2,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 3,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 4,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 5,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 6,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 7,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 8,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 9,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 10,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 11,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
     },
     {
       "id": 12,
-      "title": "Zaman Bildiren İfadeler",
+      "title": "Clue how to start",
       "description": "<p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">today:</b>&nbsp;bugün<br style=\"padding: 0px; margin: 0px; border: none; outline: none; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; word-wrap: break-word;\"></font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">now:</b>&nbsp;şimdi</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at present:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the moment:</b>&nbsp;şu anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">currently:</b>&nbsp;bu sıralra</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">recently:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">lately:</b>&nbsp;son zamanlarda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">nowadays:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">these days:&nbsp;</b>bu günlerde</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">then:&nbsp;</b>o zaman, o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">at the time:&nbsp;</b>o anda</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">this time (tomorrow/yesterday):</b>&nbsp;(yarın/dün) bu zamanlar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">so far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">thus far:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until now/today:</b>&nbsp;şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">up to now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">till now/today:&nbsp;</b>şimdiye kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">until recently:</b>&nbsp;son zamanlara kadar</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">still:</b>&nbsp;hâlâ</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">yesterday:</b>&nbsp;dün</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tomorrow:</b>&nbsp;yarın</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">next (weekend):</b>&nbsp;gelecek hafta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">last (weekend):</b>&nbsp;geçen hasta sonu</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">for + zaman süreci:</b>&nbsp;... süredir</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">tonight:</b>&nbsp;bu gece</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the past:</b>&nbsp;geçmişte</font></p><p style=\"padding: 0px; margin-bottom: 7px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; color: rgb(51, 51, 51); word-wrap: break-word;\"><font face=\"Helvetica\"><b style=\"padding: 0px; margin: 0px; border: 0px; outline: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent; vertical-align: baseline; background: transparent; line-height: inherit; word-wrap: break-word;\">in the future:</b>&nbsp;gelecekte</font></p>",
       "favorited": true,
       "pdf": "https://ronwellacademy.test/storage/content/material/1522587798-260951.pdf",
       "others": [
         {
           "id": 1,
-          "name": "Zaman Bildiren İfadeler",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "Clue how to start",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         },
         {
           "id": 2,
           "name": "Reading - Reference Soruları Nasıl Çözülür?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 3,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": false
         },
         {
           "id": 4,
-          "name": "FIDO Nedir?",
-          "summary": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
-          "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "name": "What is xPath?",
+          "summary": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
+          "text": "Lorem Ipsum, . Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak",
           "favorited": true
         }
       ]
@@ -3374,16 +3407,16 @@ coursesData: [
   ],
   "testsInfo": {
     "what": {
-      "title": "What is Ranorex Test ?",
+      "title": "Why Ronwell Academy ?",
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "How it Works?",
-      "text": "Help people get answers to their questions and get started with your app."
+      "title": "How to Get Help?",
+      "text": "We help people get answers to their questions and get started with their daily tasks. You can get information and support at any time by contacting our IT professioneals for your questions and problems in your mind."
     },
     "video": {
-      "cover": "how-works-sozluk.jpg",
-      "url": "https://www.youtube.com/watch?v=2W_2a3ogc7A"
+      "cover": "why-ronwell-academy.png",
+      "url": "https://www.youtube.com/embed/2W_2a3ogc7A?rel=0&amp;showinfo=0"
     },
     "groups": [
       {
@@ -3414,7 +3447,7 @@ coursesData: [
         "id": 4,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Translation Group"
+        "title": "Basic Translation Group"
       },
       {
         "id": 5,
@@ -3432,7 +3465,7 @@ coursesData: [
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Translation Group"
+        "title": "Basic Translation Group"
       }
     ],
     "types": [
@@ -4249,8 +4282,8 @@ coursesData: [
       "text": "The Ranorex Cert Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "How does it work?",
-      "text": "Help people get answers to their questions and get started with your app."
+      "title": "How to Get Help?",
+      "text": "We help people get answers to their questions and get started with their daily tasks. You can get information and support at any time by contacting our IT professioneals for your questions and problems in your mind."
     },
     "video": {
       "cover": "why-ronwell-academy.png",
@@ -4309,7 +4342,7 @@ coursesData: [
         "id": 8,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Translation Group"
+        "title": "Basic Translation Group"
       }
     ],
     "types": [
@@ -5083,16 +5116,16 @@ coursesData: [
   ],
   "readingInfo": {
     "what": {
-      "title": "RH+ Okuma Nedir",
+      "title": "Why Ronwell Academy ?",
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "Nasıl Çalışır?",
-      "text": "Help people get answers to their questions and get started with your app."
+      "title": "How to Get Help?",
+      "text": "We help people get answers to their questions and get started with their daily tasks. You can get information and support at any time by contacting our IT professioneals for your questions and problems in your mind."
     },
     "video": {
-      "cover": "how-works-sozluk.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uQy1My56Gyk?rel=0&amp;showinfo=0"
+      "cover": "why-ronwell-academy.png",
+      "url": "https://www.youtube.com/embed/2W_2a3ogc7A?rel=0&amp;showinfo=0"
     },
     "groups": [
       {
@@ -5103,45 +5136,45 @@ coursesData: [
       },
       {
         "id": 1,
-        "group": "Certification Preparation",
+        "group": "automtion",
         "progress": 55,
-        "title": "Preliminary Group"
+        "title": "Automation Group"
       },
       {
         "id": 2,
-        "group": "ceviri",
+        "group": "development",
         "progress": 72,
-        "title": "Advanced Translation Group"
+        "title": "Development Group"
       },
       {
         "id": 3,
-        "group": "deneme",
+        "group": "devops",
         "progress": 35,
-        "title": "Quiz Group"
+        "title": "DevOPs Group"
       },
       {
         "id": 4,
-        "group": "Certification Preparation",
+        "group": "sap",
         "progress": 55,
-        "title": "Preliminary Group"
+        "title": "SAP Group"
       },
       {
         "id": 5,
-        "group": "ceviri",
+        "group": "rpa",
         "progress": 72,
-        "title": "Advanced Translation Group"
+        "title": "Robotic Process Automation"
       },
       {
         "id": 6,
-        "group": "deneme",
+        "group": "cloud",
         "progress": 35,
-        "title": "Quiz Group"
+        "title": "Cloud Group"
       },
       {
         "id": 7,
-        "group": "ceviri",
+        "group": "agile",
         "progress": 100,
-        "title": "Temel Translation Group"
+        "title": "Agile Group"
       }
     ]
   },
@@ -5150,7 +5183,7 @@ coursesData: [
       "id": 1,
       "img": "reading-1",
       "groupId": 12,
-      "group": "Certification Preparation",
+      "group": "automation",
       "groupName": "Preliminary Group",
       "date": "2021-12-12",
       "tags": [
@@ -5158,7 +5191,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe 1",
+      "title": "Ranorex Studio fundamentals 1",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5171,7 +5204,7 @@ coursesData: [
       "id": 2,
       "img": "reading-1",
       "groupId": 12,
-      "group": "ceviri",
+      "group": "automation",
       "groupName": "Translation Group",
       "date": "2018-08-24",
       "tags": [
@@ -5179,7 +5212,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe 1",
+      "title": "Ranorex Studio fundamentals 1",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5200,7 +5233,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe 2",
+      "title": "Ranorex Studio fundamentals 2",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5221,7 +5254,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": true,
       "solved": true,
@@ -5242,7 +5275,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": true,
       "solved": true,
@@ -5263,7 +5296,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5284,7 +5317,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5305,7 +5338,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5326,7 +5359,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5347,7 +5380,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": true,
       "solved": true,
@@ -5368,7 +5401,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": true,
       "solved": true,
@@ -5389,7 +5422,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5410,7 +5443,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": true,
       "solved": true,
@@ -5431,7 +5464,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5452,7 +5485,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5473,7 +5506,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5494,7 +5527,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": false,
       "solved": false,
@@ -5515,7 +5548,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "time": 43,
       "read": true,
       "solved": true,
@@ -5535,7 +5568,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -6559,7 +6592,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe2",
+      "title": "Ranorex Studio fundamentals2",
       "texts": [
         {
           "english": "Culture1 is a meaning for people's 'way of life'.",
@@ -7583,7 +7616,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culturee is a meaning for people's 'way of life'.",
@@ -8607,7 +8640,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe 4",
+      "title": "Ranorex Studio fundamentals 4",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -9631,7 +9664,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe 4",
+      "title": "Ranorex Studio fundamentals 4",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -10655,7 +10688,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe 5",
+      "title": "Ranorex Studio fundamentals 5",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -11679,7 +11712,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe 6",
+      "title": "Ranorex Studio fundamentals 6",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -12703,7 +12736,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -13727,7 +13760,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -14751,7 +14784,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -15775,7 +15808,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -16799,7 +16832,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -17823,7 +17856,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -18847,7 +18880,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -20895,7 +20928,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -21919,7 +21952,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -22943,7 +22976,7 @@ coursesData: [
         "universe",
         "nofilter"
       ],
-      "title": "Galaxy of Universe",
+      "title": "Ranorex Studio fundamentals",
       "texts": [
         {
           "english": "Culture is a meaning for people's 'way of life'.",
@@ -23962,8 +23995,8 @@ coursesData: [
       "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "How it Works?",
-      "text": "Help people get answers to their questions and get started with your app."
+      "title": "How to Get Help?",
+      "text": "We help people get answers to their questions and get started with their daily tasks. You can get information and support at any time by contacting our IT professioneals for your questions and problems in your mind."
     },
     "video": {
       "cover": "why-ronwell-academy.png",
@@ -24016,7 +24049,7 @@ coursesData: [
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Translation Group"
+        "title": "Basic Translation Group"
       }
     ]
   },
@@ -24307,16 +24340,16 @@ coursesData: [
   ],
   "digibookInfo":{
     "what": {
-      "title": "RH+ Digibook Nedir",
-      "text": "The Ranorex Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
+      "title": "What is Ranorex Certification ?",
+      "text": "The Ranorex Cert Prep group is the class for those who have never taken the Ranorex exam or who have taken it and scored below 70. Includes basic usage information, screens, and features."
     },
     "howWorks": {
-      "title": "Nasıl Çalışır?",
-      "text": "Help people get answers to their questions and get started with your app."
+      "title": "How to Get Help?",
+      "text": "We help people get answers to their questions and get started with their daily tasks. You can get information and support at any time by contacting our IT professioneals for your questions and problems in your mind."
     },
     "video": {
-      "cover": "how-works-sozluk.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uQy1My56Gyk?rel=0&amp;showinfo=0"
+      "cover": "why-ronwell-academy.png",
+      "url": "https://www.youtube.com/embed/2W_2a3ogc7A?rel=0&amp;showinfo=0"
     },
     "groups": [
       {
@@ -24347,7 +24380,7 @@ coursesData: [
         "id": 4,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Translation Group"
+        "title": "Basic Translation Group"
       },
       {
         "id": 5,
@@ -24365,7 +24398,7 @@ coursesData: [
         "id": 7,
         "group": "ceviri",
         "progress": 100,
-        "title": "Temel Translation Group"
+        "title": "Basic Translation Group"
       }
     ]
   },
@@ -24723,7 +24756,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Öğrenilecek Kelime",
+          "title": "Words to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -24732,7 +24765,7 @@ coursesData: [
         },
         {
           "id": 3,
-          "title": "Çözülecek Deneme",
+          "title": "Quizzes to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -24740,7 +24773,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2021 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24764,7 +24797,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -24773,7 +24806,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -24781,7 +24814,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24805,7 +24838,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -24814,7 +24847,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -24822,7 +24855,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24846,7 +24879,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -24855,7 +24888,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -24863,7 +24896,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24887,7 +24920,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -24896,7 +24929,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -24904,7 +24937,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24928,7 +24961,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -24937,7 +24970,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -24945,7 +24978,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -24969,7 +25002,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "continue",
@@ -24978,7 +25011,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "continue",
@@ -24986,7 +25019,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25010,7 +25043,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -25019,7 +25052,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -25027,7 +25060,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25051,7 +25084,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -25060,7 +25093,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -25068,7 +25101,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25092,7 +25125,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "none",
@@ -25101,7 +25134,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "none",
@@ -25109,7 +25142,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25133,7 +25166,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -25142,7 +25175,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -25150,7 +25183,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25174,7 +25207,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -25183,7 +25216,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -25191,7 +25224,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25215,7 +25248,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -25224,7 +25257,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -25232,7 +25265,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25256,7 +25289,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -25265,7 +25298,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -25273,7 +25306,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25297,7 +25330,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -25306,7 +25339,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -25314,7 +25347,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     },
@@ -25338,7 +25371,7 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Öğrenilecek Kelime",
+          "title": "Word to Learn",
           "current": "200",
           "full": "200",
           "status": "completed",
@@ -25347,7 +25380,7 @@ coursesData: [
         },
         {
           "id": 2,
-          "title": "Çözülecek Deneme",
+          "title": "Quiz to Solve",
           "current": "4",
           "full": "4",
           "status": "completed",
@@ -25355,7 +25388,7 @@ coursesData: [
           "link": "/homework/11"
         }
       ],
-      "date": "19 Aralık 2018 / Friday",
+      "date": "19 December 2018 / Friday",
       "hour": "19:00",
       "active": false
     }
@@ -25397,9 +25430,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -25408,9 +25441,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -25419,9 +25452,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -25430,9 +25463,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "resources": [],
@@ -25440,7 +25473,7 @@ coursesData: [
       "instructor": "Yazzen Safadi",
       "active": true,
       "teacher": "Yazzen Safadi",
-      "description": "In this course you will get started with Ranorex Studio. You will learn basics of Ranorex, interfaces and connectivity, system details and more'",
+      "description": "In this course you will get started with Ranorex Studio. You will learn basics of Ranorex, Interfaces, Test Creation and Data Binding'",
       "units": [
         {
           "id": 0,
@@ -25460,12 +25493,12 @@ coursesData: [
         {
           "id": 3,
           "name": "Repository",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
           "name": "Validation",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ],
     
@@ -25492,7 +25525,7 @@ coursesData: [
       "homeworks": [
         {
           "id": 0,
-          "title": "Hello World",
+          "title": "Task 1 Create a test",
           "app": "dersler",
           "time": 120,
           "currentTime": 110,
@@ -25503,47 +25536,47 @@ coursesData: [
         },
         {
           "id": 1,
-          "title": "Hello World",
+          "title": "Task 2 Create a reusable component with variables",
           "app": "digibook",
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
-          "title": "Hello World",
+          "title": "Task 3 Create a reusable component with data binding",
           "app": "okuma",
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
-          "title": "Hello World",
+          "title": "Task 4 Create a reusable component with basic table",
           "app": "digibook",
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
-          "title": "Hello World",
+          "title": "Task 5 Create a reusable component with external Data",
           "app": "deneme",
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "resources": [],
@@ -25551,7 +25584,7 @@ coursesData: [
       "instructor": "Konstantina Polydorou",
       "active": true,
       "teacher": "Konstantina Polydorou",
-      "description": "In this course you will learn some advanced staff with Ranorex Studio. You will learn writing code for UI objetys, manipulating repository with C#. Ranorex API interfaces and connectivity, system details and more'",
+      "description": "In this course you will learn some advanced staff with Ranorex Studio. You will learn writing code for UI obcets, manipulating repository with C#. Ranorex API interfaces and connectivity, system details and more'",
       "units": [
         {
           "id": 0,
@@ -25571,12 +25604,12 @@ coursesData: [
         {
           "id": 3,
           "name": "Working with Tables",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
           "name": "Working with Trees",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ],
     
@@ -25619,9 +25652,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -25630,9 +25663,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -25641,9 +25674,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -25652,9 +25685,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "resources": [],
@@ -25682,12 +25715,12 @@ coursesData: [
         {
           "id": 3,
           "name": "Repository",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
           "name": "Validation",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ],
     
@@ -25730,9 +25763,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -25741,9 +25774,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -25752,9 +25785,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -25763,9 +25796,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "resources": [],
@@ -25793,12 +25826,12 @@ coursesData: [
         {
           "id": 3,
           "name": "Repository",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
           "name": "Validation",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ],
     
@@ -25841,9 +25874,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -25852,9 +25885,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -25863,9 +25896,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -25874,9 +25907,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "resources": [],
@@ -25904,12 +25937,12 @@ coursesData: [
         {
           "id": 3,
           "name": "Parse SOAP Message",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
           "name": "Validate XML Nodes",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ],
     
@@ -25952,9 +25985,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -25963,9 +25996,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -25974,9 +26007,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -25985,9 +26018,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "resources": [],
@@ -26015,12 +26048,12 @@ coursesData: [
         {
           "id": 3,
           "name": "Backup, restore",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
           "name": "Troubleshooting",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ],
     
@@ -26063,9 +26096,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 2,
@@ -26074,9 +26107,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 22,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 3,
@@ -26085,9 +26118,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         },
         {
           "id": 4,
@@ -26096,9 +26129,9 @@ coursesData: [
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Ünite 1",
-          "exercise": "Alıştırma 3",
-          "content": "Benjamin İçeriği"
+          "unit": "Unit 1",
+          "exercise": "Exercise 3",
+          "content": "Exercise Content"
         }
       ],
       "resources": [],
@@ -26126,12 +26159,12 @@ coursesData: [
         {
           "id": 3,
           "name": "Editing C Source",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         },
         {
           "id": 4,
           "name": "Assigning Interface Data",
-          "description": "<h3><strong>Başlık 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
+          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
         }
       ],
     

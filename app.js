@@ -102,8 +102,6 @@ app.get('/exams/:group', (req, res) => {
       message: 'waiting for status code 200',
     })
   }
-
-
 });
 
 app.get('/testsInfo', (req, res) => {
@@ -120,6 +118,39 @@ app.get('/test', (req, res) => {
     success: 'true',
     message: 'waiting for status code 200',
   })
+});
+
+app.get('/exams/:group', (req, res) => {
+
+  if(req.params.group == 'test') {
+    res.status(200).send({
+      data: data.examsTest,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+
+  } else if(req.params.group == 'devops'){
+    res.status(200).send({
+      data: data.examsDevops,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  } else if(req.params.group == 'agile'){
+    res.status(200).send({
+      data: data.examsAgile,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  }  
+  else {
+    res.status(200).send({
+      data: data.exams,
+      success: 'true',
+      message: 'waiting for status code 200',
+    })
+  }
+
+
 });
 
 app.get('/readingInfo', (req, res) => {
