@@ -24201,7 +24201,7 @@ coursesData: [
       "title": "Ranorex Certification Training",
       "text": "Ranorex Certification Training",
       "visited": false,
-      "url": "https://floridaliteracy.org/shfb.pdf",
+      "url": "https://mockapi-izcb.onrender.com/pdf/shfb.pdf",
       "groups": [
         {
           "id": 0,
@@ -24238,7 +24238,7 @@ coursesData: [
       "title": "Blood Pressure Monitor Guide",
       "text": "Home Blood Pressure Measurement Instructions",
       "visited": false,
-      "url": "https://www.heart.org/-/media/files/health-topics/high-blood-pressure/how_to_measure_your_blood_pressure_letter_size.pdf",
+      "url": "https://mockapi-izcb.onrender.com/pdf/how_to_measure_your_blood_pressure_letter_size.pdf",
       "groups": [
         {
           "id": 1,
