@@ -24235,10 +24235,10 @@ coursesData: [
   [
     {
       "id": 5,
-      "title": "CORS Training",
-      "text": "Dcoument for handle CORS issues",
+      "title": "Blood Pressure Monitor Guide",
+      "text": "Home Blood Pressure Measurement Instructions",
       "visited": false,
-      "url": "",
+      "url": "https://www.heart.org/-/media/files/health-topics/high-blood-pressure/how_to_measure_your_blood_pressure_letter_size.pdf",
       "groups": [
         {
           "id": 1,
@@ -24278,8 +24278,8 @@ coursesData: [
     },
     {
       "id": 7,
-      "title": "S4H01 - SAP Business Suite to SAP S/4HANA Delta",
-      "text": "OverviewUnit 1: Introduction to SAP S/4HANAUnit \n 2: User ExperienceUnit \n 3: SAP HANAUnit 4: ApplicationsUnit 5: AdoptionUnit 6: Embedded Analytics",
+      "title": "Getting Started on Your National Board Certification Journey",
+      "text": "National Board Certification is a comprehensive process developed by teachers to recognize \n reward, inspire and grow accomplished teachers across America. It is made up of four \n 3: components and is designed to be flexible, fitting around your personal and professional",
       "visited": false,
       "url": "https://cdn-e2w968qk.files-simplefileupload.com/static/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG8vIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6d13f36f3f3246da9f7a7e7ff72c4a941a5e355/S4H01_EN_Col05_ILT_FV_Part_A4.pdf",
       "groups": [
