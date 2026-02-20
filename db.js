@@ -4375,8 +4375,8 @@ coursesData: [
   "exams": [
     {
       "id": 0,
-      "title": "Ranorex Certification Exam 1",
-      "groupName": "Practice Grubu",
+      "title": "Clinical Accuracy Assessment: OMRON BP7450 User Exam",
+      "groupName": "Practice Group",
       "group": "deneme",
       "date": "2022-11-29",
       "type": "Multi Selection Question Type",
@@ -4403,7 +4403,7 @@ coursesData: [
     },
     {
       "id": 1,
-      "title": "Ranorex Certification Exam 2",
+      "title": "Patient Safety & Device Setup Skills Test",
       "groupName": "Automation Group",
       "group": "ceviri",
       "date": "2022-11-26",
@@ -4418,7 +4418,7 @@ coursesData: [
     },
     {
       "id": 2,
-      "title": "Selenium Certification Exam",
+      "title": "Home BP Monitoring Certification: Practical Usage Quiz",
       "groupName": "Automation Group",
       "group": "ceviri",
       "date": "2022-11-26",
@@ -4433,7 +4433,7 @@ coursesData: [
     },
     {
       "id": 3,
-      "title": "C# Test",
+      "title": "Vave Universal Probe: Wireless Scanning Proficiency Exam",
       "groupName": "Automation Group",
       "group": "deneme",
       "date": "2016-09-12",
@@ -4448,7 +4448,7 @@ coursesData: [
     },
     {
       "id": 4,
-      "title": "JMeter Exam",
+      "title": "Vave Universal Probe Technical & Clinical Knowledge Check",
       "groupName": "Automation Group",
       "group": "Certification Preparation",
       "date": "2022-05-23",
@@ -4476,7 +4476,7 @@ coursesData: [
     },
     {
       "id": 5,
-      "title": "SOAP UI Exam",
+      "title": "Operational Excellence: The Vave All-in-One Probe Assessment",
       "groupName": "Automation Group",
       "group": "ceviri",
       "date": "2022-11-04",
@@ -4491,7 +4491,7 @@ coursesData: [
     },
     {
       "id": 6,
-      "title": "Appium Exam",
+      "title": "Vave Phased Array Mastery: Cardiac & Abdominal Scanning Quiz",
       "groupName": "Automation Group",
       "group": "deneme",
       "date": "2018-05-21",
@@ -4506,7 +4506,7 @@ coursesData: [
     },
     {
       "id": 7,
-      "title": "SOAP with Ranorex Exam",
+      "title": "Phased Probe Clinical Performance Evaluation",
       "groupName": "Automation Group",
       "group": "Certification Preparation",
       "date": "2016-03-22",
@@ -4521,7 +4521,7 @@ coursesData: [
     },
     {
       "id": 8,
-      "title": "Python Exam",
+      "title": "Deep Tissue Imaging Assessment: Vave Phased Probe Specialist",
       "groupName": "Development Group",
       "group": "Certification Preparation",
       "date": "2017-04-21",
@@ -4536,7 +4536,7 @@ coursesData: [
     },
     {
       "id": 9,
-      "title": "Selenium Java Exam",
+      "title": "Cardiac Ultrasound Proficiency Test: Vave Phased Array Focus",
       "groupName": "Development Group",
       "group": "deneme",
       "date": "2018-11-27",
@@ -4564,7 +4564,7 @@ coursesData: [
     },
     {
       "id": 10,
-      "title": "Javascript Exam",
+      "title": "Vave Phased Probe: Advanced Application & Settings Exam",
       "groupName": "Development Group",
       "group": "Certification Preparation",
       "date": "2018-08-23",
@@ -4579,7 +4579,7 @@ coursesData: [
     },
     {
       "id": 11,
-      "title": "Translation Exam",
+      "title": "Home Setup and Maintenance Proficiency Test",
       "groupName": "Development Group",
       "group": "ceviri",
       "date": "2018-09-05",
@@ -4607,8 +4607,8 @@ coursesData: [
     },
     {
       "id": 12,
-      "title": "AWS Test",
-      "groupName": "Cloud Group",
+      "title": "Glucose Sensor Calibration & Accuracy Assessment",
+      "groupName": "Diabetes Management",
       "group": "deneme",
       "date": "2018-11-03",
       "type": "Single Selection Question Type",
@@ -4622,8 +4622,8 @@ coursesData: [
     },
     {
       "id": 13,
-      "title": "S3 Test",
-      "groupName": "Cloud Group",
+      "title": "Advanced Insulin Delivery Systems: Connectivity & Safety Exam",
+      "groupName": "Diabetes Management",
       "group": "deneme",
       "date": "2015-04-12",
       "type": "Preposition Question Type",
@@ -4637,8 +4637,8 @@ coursesData: [
     },
     {
       "id": 14,
-      "title": "Lambda Exam",
-      "groupName": "Cloud Group",
+      "title": "Pulse Oximetry Accuracy: Vital Signs Monitoring Skills Check",
+      "groupName": "Diabetes Management",
       "group": "ceviri",
       "date": "2018-11-30",
       "type": "Preposition Question Type",
@@ -4652,8 +4652,8 @@ coursesData: [
     },
     {
       "id": 15,
-      "title": "Cognito Test",
-      "groupName": "Cloud Group",
+      "title": "Glucometer Precision: Blood Sugar Monitoring Mastery Exam",
+      "groupName": "Diabetes Management",
       "group": "deneme",
       "date": "2022-05-21",
       "type": "Single Selection Question Type",
@@ -4667,8 +4667,8 @@ coursesData: [
     },
     {
       "id": 16,
-      "title": "Elastic Search Test",
-      "groupName": "Cloud Group",
+      "title": "Continuous Glucose Monitoring (CGM) Integration Skills Test",
+      "groupName": "Diabetes Management",
       "group": "Certification Preparation",
       "date": "2022-03-22",
       "type": "Preposition Question Type",
@@ -4695,8 +4695,8 @@ coursesData: [
     },
     {
       "id": 17,
-      "title": "Dynamo DB Test",
-      "groupName": "Cloud Group",
+      "title": "Diabetes Technology Proficiency: Integrated CGM and Pump Management",
+      "groupName": "Diabetes Management",
       "group": "deneme",
       "date": "2022-06-14",
       "type": "Single Selection Question Type",
@@ -4998,7 +4998,7 @@ coursesData: [
     {
       "id": 0,
       "title": "Ranorex Certification Exam 1",
-      "groupName": "Practice Grubu",
+      "groupName": "Practice Group",
       "group": "deneme",
       "date": "2022-11-29",
       "type": "Multi Selection Question Type",
@@ -5058,7 +5058,7 @@ coursesData: [
     {
       "id": 0,
       "title": "Jenkins Fundamentals Exam",
-      "groupName": "Practice Grubu",
+      "groupName": "Practice Group",
       "group": "deneme",
       "date": "2022-11-29",
       "type": "Multi Selection Question Type",
@@ -5168,7 +5168,7 @@ coursesData: [
         "id": 6,
         "group": "cloud",
         "progress": 35,
-        "title": "Cloud Group"
+        "title": "Diabetes Management"
       },
       {
         "id": 7,
