@@ -24201,7 +24201,7 @@ coursesData: [
       "title": "Ranorex Certification Training",
       "text": "Ranorex Certification Training",
       "visited": false,
-      "url": "https://cdn-e2w968qk.files-simplefileupload.com/static/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGsvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5281b736a887b5892f4eea83f8e3c71b32dae980/RanorexCertificationSubjects.pdf",
+      "url": "https://floridaliteracy.org/shfb.pdf",
       "groups": [
         {
           "id": 0,
@@ -24281,7 +24281,7 @@ coursesData: [
       "title": "Getting Started on Your National Board Certification Journey",
       "text": "National Board Certification is a comprehensive process developed by teachers to recognize \n reward, inspire and grow accomplished teachers across America. It is made up of four \n 3: components and is designed to be flexible, fitting around your personal and professional",
       "visited": false,
-      "url": "https://cdn-e2w968qk.files-simplefileupload.com/static/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG8vIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6d13f36f3f3246da9f7a7e7ff72c4a941a5e355/S4H01_EN_Col05_ILT_FV_Part_A4.pdf",
+      "url": "https://floridaliteracy.org/shfb.pdf",
       "groups": [
         {
           "id": 1,
