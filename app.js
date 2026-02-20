@@ -32,6 +32,9 @@ app.use(function (req, res, next) {
   next();
 });
 
+// Serve static files from pdf directory
+app.use('/pdf', express.static('pdf'));
+
 app.get('/user', (req, res) => {
   res.status(200).send({
     data: data.user,
