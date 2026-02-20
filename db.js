@@ -346,31 +346,31 @@ const data = {
         "id": 1,
         "group": "test",
         "progress": 55,
-        "title": "Test Automation"
+        "title": "Respiratory Devices"
       },
       {
         "id": 2,
         "group": "cloud",
         "progress": 72,
-        "title": "Cloud"
+        "title": "Diabetes Management"
       },
       {
         "id": 3,
         "group": "sap",
         "progress": 35,
-        "title": "SAP Courses"
+        "title": "Monitoring & Diagnostics"
       },
       {
         "id": 4,
         "group": "development",
         "progress": 100,
-        "title": "Development"
+        "title": "Specialized Home Care"
       },
       {
         "id": 5,
         "group": "devops",
         "progress": 72,
-        "title": "Devops Courses"
+        "title": "Combined Device Competency"
       },
       {
         "id": 6,
@@ -392,7 +392,7 @@ const data = {
       "title": "Introduction to Ranorex",
       "tags":  ["ranorex", "automation"],
       "group": "automation",
-      "groupName": "Test Automation",
+      "groupName": "Respiratory Devices",
       "date": "2022-05-11",
       "hour": "22:00",
       "progress": 100,
@@ -447,7 +447,7 @@ const data = {
       "id": 5,
       "title": "AWS Cloud programming",
       "tags":  ["aws", "cloud"],
-      "group": "clous",
+      "group": "cloud",
       "date": "2021-12-12",
       "hour": "22:00",
       "progress": 55,
@@ -659,7 +659,7 @@ const data = {
       "title": "Introduction to Ranorex",
       "tags":  ["ranorex", "automation"],
       "group": "automation",
-      "groupName": "Test Automation",
+      "groupName": "Respiratory Devices",
       "date": "2022-05-11",
       "hour": "22:00",
       "progress": 100,
@@ -4300,7 +4300,7 @@ coursesData: [
         "id": 1,
         "group": "test",
         "progress": 55,
-        "title": "Test Automation"
+        "title": "Respiratory Devices"
       },
       {
         "id": 2,
@@ -4872,7 +4872,7 @@ coursesData: [
     {
       "id": 27,
       "title": "Introduction to Web Examng",
-      "groupName": "Test Automation Group",
+      "groupName": "Respiratory Devices Group",
       "group": "Certification Preparation",
       "date": "2022-04-24",
       "type": "Preposition Question Type",
@@ -4887,7 +4887,7 @@ coursesData: [
     {
       "id": 28,
       "title": "Introduction to Mobile Examng",
-      "groupName": "Test Automation Group",
+      "groupName": "Respiratory Devices Group",
       "group": "Certification Preparation",
       "date": "2022-04-24",
       "type": "Preposition Question Type",
@@ -25470,36 +25470,36 @@ coursesData: [
       ],
       "resources": [],
       "duration": 120,
-      "instructor": "Yazzen Safadi",
+      "instructor": "Dr. Marcus Thorne",
       "active": true,
-      "teacher": "Yazzen Safadi",
-      "description": "In this course you will get started with Ranorex Studio. You will learn basics of Ranorex, Interfaces, Test Creation and Data Binding'",
+      "teacher": "Dr. Marcus Thorne",
+      "description": "In this course, you will get started with the OMRON BP7450 Smart Monitor. You will learn the basics of clinical-grade monitoring, device interfaces, accurate measurement creation, and digital health data integration'",
       "units": [
-        {
-          "id": 0,
-          "name": "Recorder",
-          "description": "<h3><strong>Ranorex Recoder</strong></h3>\n        <p>\n          The Ranorex Recorder allows you to record the keyboard and mouse actions necessary for a user interface test. \n	These actions appear in the Recorder’s action table, where you can edit them or add more.\n	This way, you can create recordings to suit your testing needs.\n		The Ranorex Recorder is available as an integrated tool in Ranorex Studio and as a stand-alone version.\n        </p>\n        <ul>\n          <li>Introduction.</li>\n          <li>Create Project.</li>\n          <li>Start recording.</li>\n          <li>Analyse Recording.</li>\n          <li>Run Recording.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
-        },
-        {
-          "id": 1,
-          "name": "Test Suite",
-          "description": "<h3><strong>Ranorex Recorder</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
-        },
-        {
-          "id": 2,
-          "name": "Actions",
-          "description": "<h3><strong>Ranorex Spy</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
-        },
-        {
-          "id": 3,
-          "name": "Repository",
-          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
-        },
-        {
-          "id": 4,
-          "name": "Validation",
-          "description": "<h3><strong>Title 1</strong></h3>\n        <p>\n          Lorem ipsum dolor sit <strong>amet</strong>, consectetur adipisicing elit. Eaque nisi odit veritatis vero. Alias aspernatur\n          consectetur consequatur <strong>dicta dignissimos</strong> dolorum eius ex explicabo illum in ipsum maiores molestias nisi,\n          optio, pariatur quas quod repellat reprehenderit similique soluta tempora unde veniam vero. Dicta dolorem eius\n          eligendi, molestias nam odio <a href=\"#\">possimus praesentium</a> quod repellat, saepe similique voluptate?\n        </p>\n        <ul>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum.</li>\n          <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>\n          <li>Lorem ipsum dolor sit.</li>\n          <li>Lorem ipsum dolor sit.</li>"
-        }
+            {
+              "id": 0,
+              "name": "Device Overview",
+              "description": "<h3><strong>OMRON BP7450 Monitor</strong></h3>\n <p>\n The OMRON BP7450 is a digital monitor intended for measuring blood pressure and pulse rate in the adult patient population[cite: 36]. This monitor utilizes the oscillometric method, detecting blood movement through the brachial artery to convert it into digital readings[cite: 28, 29]. It features a comprehensive display, user ID selection for multiple users, and Bluetooth connectivity for data management [cite: 27, 205, 251].\n </p>\n <ul>\n <li>Intended Use and Patient Population [cite: 36, 38].</li>\n <li>Oscillometric Measurement Method [cite: 28].</li>\n <li>Monitor Components and Display Symbols [cite: 168, 205].</li>\n <li>User ID Selection (User 1 and 2) [cite: 491, 492].</li>\n <li>Understanding the Cuff and Air Plug [cite: 197, 199].</li>\n <li>Data Transmission via Bluetooth[cite: 68, 251].</li>\n </ul>"
+            },
+            {
+              "id": 1,
+              "name": "Preparation & Setup",
+              "description": "<h3><strong>Preparing for Measurement</strong></h3>\n <p>\n Proper preparation is critical for accuracy. This unit covers battery installation, using the AC adapter, and setting the date and time[cite: 316, 338, 356]. Essential safety precautions include resting for 5 minutes and avoiding specific activities like caffeine or exercise for 30 minutes before taking a measurement [cite: 110, 111].\n </p>\n <ul>\n <li>Installing 4 AA Batteries [cite: 320, 323].</li>\n <li>AC Adapter Handling and Precautions [cite: 76, 338].</li>\n <li>Manual Date and Time Configuration [cite: 356, 371].</li>\n <li>30-Minute Avoidance Rules (Bathing, Alcohol, Exercise) [cite: 448, 449].</li>\n <li>Optimal Resting Period [cite: 450].</li>\n <li>Ensuring Room Temperature Acclimation[cite: 116, 118].</li>\n </ul>"
+            },
+            {
+              "id": 2,
+              "name": "Measurement Techniques",
+              "description": "<h3><strong>Accurate Reading Procedures</strong></h3>\n <p>\n Accuracy depends on correct cuff application and body posture[cite: 452, 480]. The cuff must be placed 0.5 inches above the inside elbow with the air tube aligned with the middle finger[cite: 472, 473]. Users must remain still, talk-free, and sit with feet flat and back supported [cite: 114, 484, 485].\n </p>\n <ul>\n <li>Applying the Arm Cuff Correctly [cite: 452].</li>\n <li>Correct Sitting Posture and Heart-Level Alignment [cite: 480, 486].</li>\n <li>Using the START/STOP Button [cite: 508].</li>\n <li>Wait Times Between Consecutive Measurements [cite: 536].</li>\n <li>Taking Manual Measurements for High Systolic Pressure (>210 mmHg) [cite: 619, 621].</li>\n <li>Using Guest Mode for Unstored Readings[cite: 604, 606].</li>\n </ul>"
+            },
+            {
+              "id": 3,
+              "name": "Advanced Features",
+              "description": "<h3><strong>TruRead and Memory Functions</strong></h3>\n <p>\n Advanced features like TruRead mode allow for 3 consecutive measurements with automatic averaging[cite: 281, 392]. The monitor stores up to 100 readings per user, allowing for historical comparison and average calculation of the latest readings taken within a 10-minute timeframe [cite: 271, 703, 807].\n </p>\n <ul>\n <li>Enabling and Configuring TruRead Mode [cite: 391, 414].</li>\n <li>Setting TruRead Intervals (15, 30, 60, or 120 seconds) [cite: 421].</li>\n <li>Viewing Readings Stored in Memory [cite: 705].</li>\n <li>Calculating 10-Minute Average Readings [cite: 807].</li>\n <li>Deleting All Stored Readings [cite: 827].</li>\n <li>Restoring Default Settings[cite: 856, 867].</li>\n </ul>"
+            },
+            {
+              "id": 4,
+              "name": "Troubleshooting & Safety",
+              "description": "<h3><strong>Errors and Maintenance</strong></h3>\n <p>\n Understanding error codes like E1 (inflation failure) or E2 (movement during measurement) is vital for troubleshooting[cite: 884, 888]. Proper maintenance includes cleaning with a soft dry cloth and following disposal regulations for batteries and the device [cite: 924, 926, 931].\n </p>\n <ul>\n <li>Identifying Error Codes (E1-E5, Er, Err) [cite: 884, 890].</li>\n <li>Resolving Common Measurement Problems [cite: 881].</li>\n <li>Irregular Heartbeat Symbol Awareness [cite: 297].</li>\n <li>Cleaning and Storage Guidelines [cite: 907, 924].</li>\n <li>Battery Replacement Indicators [cite: 330, 894].</li>\n <li>Safety Contraindications (e.g., Aircraft Use)[cite: 46, 47].</li>\n </ul>"
+            }
       ],
     
     }
@@ -25523,60 +25523,60 @@ coursesData: [
       },
       "homeworksProgress": 78,
       "homeworks": [
-        {
+      {
           "id": 0,
-          "title": "Task 1 Create a test",
-          "app": "dersler",
+          "title": "Task 1: Perform a Standard BP Measurement",
+          "app": "practice",
           "time": 120,
           "currentTime": 110,
           "progress": 67,
-          "unit": null,
-          "exercise": null,
-          "content": null
+          "unit": "Unit 2",
+          "exercise": "Final Assessment",
+          "content": "Follow the 5-minute rest rule and 0.5-inch cuff placement to take a valid reading. [cite: 111, 472]"
         },
         {
           "id": 1,
-          "title": "Task 2 Create a reusable component with variables",
-          "app": "digibook",
+          "title": "Task 2: Configure TruRead with 60s Intervals",
+          "app": "settings",
           "time": null,
           "currentTime": null,
           "progress": 67,
-          "unit": "Unit 1",
-          "exercise": "Exercise 3",
-          "content": "Exercise Content"
+          "unit": "Unit 3",
+          "exercise": "Exercise 2",
+          "content": "Enable TruRead mode and set the interval counter to 60 seconds as described in section 2.4. [cite: 415, 421]"
         },
         {
           "id": 2,
-          "title": "Task 3 Create a reusable component with data binding",
-          "app": "okuma",
+          "title": "Task 3: Sync Device Data with Bluetooth",
+          "app": "connectivity",
           "time": null,
           "currentTime": null,
           "progress": 22,
           "unit": "Unit 1",
-          "exercise": "Exercise 3",
-          "content": "Exercise Content"
+          "exercise": "Exercise 4",
+          "content": "Pair the monitor with a smart device and ensure the OK symbol appears for data transfer. [cite: 628, 642]"
         },
         {
           "id": 3,
-          "title": "Task 4 Create a reusable component with basic table",
-          "app": "digibook",
+          "title": "Task 4: Identify and Resolve E2 Error Code",
+          "app": "troubleshoot",
           "time": null,
           "currentTime": null,
           "progress": 0,
-          "unit": "Unit 1",
-          "exercise": "Exercise 3",
-          "content": "Exercise Content"
+          "unit": "Unit 4",
+          "exercise": "Exercise 1",
+          "content": "Simulate a movement error and follow the manual steps to clear the E2 display. [cite: 888]"
         },
         {
           "id": 4,
-          "title": "Task 5 Create a reusable component with external Data",
-          "app": "deneme",
+          "title": "Task 5: Analyze 10-Minute Average Readings",
+          "app": "analytics",
           "time": null,
           "currentTime": null,
           "progress": 100,
-          "unit": "Unit 1",
-          "exercise": "Exercise 3",
-          "content": "Exercise Content"
+          "unit": "Unit 3",
+          "exercise": "Exercise 5",
+          "content": "Access the memory function and calculate the average of the latest 3 readings taken within 10 minutes. [cite: 807, 812]"
         }
       ],
       "resources": [],
