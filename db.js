@@ -24215,7 +24215,7 @@ coursesData: [
       "title": "Ranorex Certification Training4",
       "text": "Lorem ipsum dolar sit amet",
       "visited": false,
-      "url": "",
+      "url": "https://mockapi-izcb.onrender.com/pdf/RanorexCertificationSubjects.pdf",
       "groups": [
         {
           "id": 0,
@@ -24254,10 +24254,10 @@ coursesData: [
     },
     {
       "id": 6,
-      "title": "Ranorex Certification Training6",
-      "text": "Lorem ipsum dolar sit amet",
+      "title": "10 series Upper Arm Blood Pressure Monitor Model BP7450",
+      "text": ". This blood pressure monitor uses the oscillometric method of blood pressure measurement. This means this monitor detects your blood movement through your brachial artery and converts the movements into a digital reading.",
       "visited": false,
-      "url": "",
+      "url": "https://mockapi-izcb.onrender.com/pdf/10-series-wireless-upper-arm-blood-pressure-monitor-bp7450-im-en_3608646-1j.pdf",
       "groups": [
         {
           "id": 0,
@@ -24281,7 +24281,7 @@ coursesData: [
       "title": "Getting Started on Your National Board Certification Journey",
       "text": "National Board Certification is a comprehensive process developed by teachers to recognize \n reward, inspire and grow accomplished teachers across America. It is made up of four \n 3: components and is designed to be flexible, fitting around your personal and professional",
       "visited": false,
-      "url": "https://floridaliteracy.org/shfb.pdf",
+      "url": "https://mockapi-izcb.onrender.com/pdf/shfb.pdf",
       "groups": [
         {
           "id": 1,
